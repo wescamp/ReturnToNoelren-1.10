@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         
+Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         
+Ql          , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Ur          , Ur          , Ur          , Ur          , Ur          , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         
+Xuc         , Ql          , Ql          , Xuc         , Ur          , Ur          , Ur          , Ur          , Ur          , Ur          , Ur          , Xuc         , Ur          , Xuc         , Xuc         , Xuc         , Xuc         
+Xuc         , Xuc         , Xuc         , Ur          , Ur          , Ur          , Ur          , Ql          , Ql          , Ql          , Ur          , Ur          , Ur          , Ur          , Ur          , Xuc         , Xuc         
+Xuc         , Xuc         , Xuc         , Xuc         , Ur          , Ur          , Ur          , Ql          , Ql          , Ql          , Ql          , Ur          , Ur          , Ur^Cov      , Ur^Cov      , Xuc         , Xuc         
+Xuc         , Xuc         , Xuc         , Xuc         , Ur          , Ur          , Ur          , Ur          , Ur          , Ql          , Ur          , Ur          , Ur^Cov      , 2 Ur^Kov    , Ur^Cov      , Xuc         , Xuc         
+Xuc         , Xuc         , Xuc         , Xuc         , Ur          , Ur          , Xuc         , Ur          , Ur          , Ur          , Ur          , Ur          , Ur^Cov      , Ur^Cov      , Xuc         , Xuc         , Xuc         
+Xuc         , Urb         , Urb         , Xuc         , Ur          , Ur          , Xuc         , Xuc         , Xuc         , Ur          , Xuc         , Ur          , Xuc         , Ur          , Ur          , Xuc         , Xuc         
+Xuc         , Urb         , Urb         , Urb         , Urb         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Ur          , Ur          
+Urb         , Urb         , Kud         , Urb         , Urb         , Urb         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         
+Urb         , Urb         , Urb         , Urb         , Urb         , Urb         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         , Xuc         
