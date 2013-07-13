@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ReturnToNoelren-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-05-10 12:18+0200\n"
+"POT-Creation-Date: 2013-07-13 10:10-0400\n"
 "PO-Revision-Date: 2013-05-01 00:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -168,6 +168,12 @@ msgstr ""
 msgid ""
 "Dexterity:\n"
 "\tThis attack always has a "
+msgstr ""
+
+#: ReturnToNoelren/RTN_Strings.cfg:90
+msgid ""
+" chance to hit regardless of the defensive ability of the unit being "
+"attacked."
 msgstr ""
 
 #: ReturnToNoelren/RTN_Strings.cfg:92
@@ -433,7 +439,7 @@ msgid " This unit is able to hide not only in deep water, but also in swamps."
 msgstr ""
 
 #: ReturnToNoelren/RTN_Strings.cfg:222
-#: ReturnToNoelren/utils/LSB3_abilities.cfg:866
+#: ReturnToNoelren/utils/LSB3_abilities.cfg:870
 msgid " This unit is able to spawn an illusion when he/she moves."
 msgstr ""
 
@@ -912,6 +918,10 @@ msgstr ""
 msgid ""
 "We shall have need of your great skill at ambushing ! (Laugh...) Enough "
 "dawdling. Here we go, try to stick with me !"
+msgstr ""
+
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:150
+msgid "They are too swift for me ! But what's that ?"
 msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-1.cfg:154
@@ -1605,6 +1615,11 @@ msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-1.cfg:401
 msgid "So farewell !"
+msgstr ""
+
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:402
+msgid ""
+"Then Tiomen went out, driving a little carriage bearing his blacksmith tools."
 msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-1.cfg:406
@@ -8130,7 +8145,7 @@ msgstr ""
 
 #. [advancement]: id=dexterity9
 #: ReturnToNoelren/units/Characters/Patti-2.cfg:37
-msgid "Even more dexterity with boow"
+msgid "Even more dexterity with bow"
 msgstr ""
 
 #. [attack]: type=impact
@@ -8256,7 +8271,7 @@ msgstr ""
 #. [unit_type]: id=Tolivia, race=elemental
 #: ReturnToNoelren/units/Characters/Tolivia.cfg:25
 msgid ""
-"The will of the storm merges with a water spirt to form a potent elemental."
+"The will of the storm merges with a water spirit to form a potent elemental."
 msgstr ""
 
 #. [attack]: type=impact
@@ -9077,12 +9092,12 @@ msgid "Bomber"
 msgstr ""
 
 #. [dummy]: id=rotm_shadow
-#: ReturnToNoelren/utils/LSB3_abilities.cfg:871
+#: ReturnToNoelren/utils/LSB3_abilities.cfg:875
 msgid "shadow"
 msgstr ""
 
 #. [dummy]: id=rotm_shadow
-#: ReturnToNoelren/utils/LSB3_abilities.cfg:873
+#: ReturnToNoelren/utils/LSB3_abilities.cfg:877
 msgid ""
 "Shadow:\n"
 "A unit who has this ability can leave his/her shadow at the hex where he/she "
