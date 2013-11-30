@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: ReturnToNoelren-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-07-13 10:10-0400\n"
+"POT-Creation-Date: 2013-11-30 18:31+0100\n"
 "PO-Revision-Date: 2013-05-01 00:20+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -297,7 +297,7 @@ msgid "Trolls"
 msgstr ""
 
 #: ReturnToNoelren/RTN_Strings.cfg:150
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:570
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:575
 msgid "Bats"
 msgstr ""
 
@@ -353,7 +353,7 @@ msgid "Wesnoth soldiers"
 msgstr ""
 
 #: ReturnToNoelren/RTN_Strings.cfg:176
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:789
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:794
 msgid "Nagas"
 msgstr ""
 
@@ -422,7 +422,7 @@ msgid "Build a bridge"
 msgstr ""
 
 #: ReturnToNoelren/RTN_Strings.cfg:212
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:691
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:696
 msgid "Create elemental water."
 msgstr ""
 
@@ -446,7 +446,7 @@ msgstr ""
 #. [campaign]: id=ReturnToNoelren
 #. [editor_group]: id=Noelren
 #: ReturnToNoelren/_main.cfg:22 ReturnToNoelren/_main.cfg:58
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1594
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1599
 msgid "Return to Noelren"
 msgstr ""
 
@@ -511,16 +511,21 @@ msgstr ""
 
 #. [about]
 #: ReturnToNoelren/about.cfg:19
-msgid "English text revision:"
+msgid "Sprites and design of the Janishad faction:"
 msgstr ""
 
 #. [about]
 #: ReturnToNoelren/about.cfg:25
-msgid "Testing & feedback:"
+msgid "English text revision:"
 msgstr ""
 
 #. [about]
 #: ReturnToNoelren/about.cfg:31
+msgid "Testing & feedback:"
+msgstr ""
+
+#. [about]
+#: ReturnToNoelren/about.cfg:37
 msgid "Campaign Design, WML Coding & additional artwork."
 msgstr ""
 
@@ -594,17 +599,17 @@ msgid "Aerendil"
 msgstr ""
 
 #. [unit]: type=Lestiviel-0, id=Lestiviel
-#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:226
+#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:213
 msgid "Lestiviel"
 msgstr ""
 
 #. [unit]: type=Arch Mage, id=Glynnador
-#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:511
+#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:539
 msgid "Glynnador"
 msgstr ""
 
 #. [unit]: type=Necromancer, id=Necro1
-#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:562
+#: ReturnToNoelren/scenarios/015-ElvesHome.cfg:590
 msgid "Necromancer"
 msgstr ""
 
@@ -666,8 +671,8 @@ msgstr ""
 #. [side]: type=Mage of Light, id=AkhSolen
 #. [unit]: type=Mage of Light, id=AkhSolen
 #: ReturnToNoelren/scenarios/090-Fremagel.cfg:260
-#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:96
-#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:156
+#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:99
+#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:159
 #: ReturnToNoelren/scenarios/220-BattleForNoelren.cfg:108
 msgid "Akh-Solen"
 msgstr ""
@@ -709,17 +714,17 @@ msgid "Ak-Mahal"
 msgstr ""
 
 #. [side]: type=General, id=Dukon
-#: ReturnToNoelren/scenarios/190-TakingSoradoc.cfg:157
+#: ReturnToNoelren/scenarios/190-TakingSoradoc.cfg:158
 msgid "Garnison"
 msgstr ""
 
 #. [unit]: type=Grand Knight, id=Dineann
-#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:171
+#: ReturnToNoelren/scenarios/210-BattleForWeldyn.cfg:174
 msgid "Dineann"
 msgstr ""
 
 #. [side]: type=Ancient Lich, id=Duluth
-#: ReturnToNoelren/scenarios/215-HiddenShame.cfg:73
+#: ReturnToNoelren/scenarios/215-HiddenShame.cfg:74
 msgid "King Duluth"
 msgstr ""
 
@@ -730,9 +735,9 @@ msgstr ""
 
 #. [side]: type=Royal Warrior, id=NerinsLady
 #. [unit]: id=NerinsLady, type=Royal Warrior
-#: ReturnToNoelren/scenarios/220-BattleForNoelren.cfg:164
-#: ReturnToNoelren/scenarios/235-BattleForNoelren.cfg:157
-#: ReturnToNoelren/scenarios/250-Victory.cfg:129
+#: ReturnToNoelren/scenarios/220-BattleForNoelren.cfg:161
+#: ReturnToNoelren/scenarios/235-BattleForNoelren.cfg:154
+#: ReturnToNoelren/scenarios/250-Victory.cfg:126
 #: ReturnToNoelren/utils/RTN1_characters.cfg:294
 msgid "Nerins Lady"
 msgstr ""
@@ -854,6 +859,7 @@ msgid "The elves are upon us ! Fly !"
 msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-1.cfg:101
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:106
 msgid "They're fleeing ! Hurray !"
 msgstr ""
 
@@ -861,298 +867,302 @@ msgstr ""
 msgid "But we are too late. Quite nobody survived."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:106
-msgid "This one is still alive."
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:107
+msgid "We were just in time. Most villagers survived."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:107
-msgid "Let's take the poor lad with us."
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:111
+msgid "This guy is still alive."
 msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-1.cfg:112
+msgid "Let's take the poor lad with us."
+msgstr ""
+
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:117
 msgid "Glynn forest"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:119
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:124
 msgid ""
 "Young Tiomen quickly recovered his health. But living with elves was not so "
 "easy. He could scarce match them wandering in the forests."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:125
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:130
 msgid "Patrol in the wood until turns run out."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:128
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:133
 msgid "Tiomen's death"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:131
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:136
 msgid "You'll need no gold in this level."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:134
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:139
 msgid "Follow the spirit."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:137
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:142
 msgid "Return to the elvish home."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:140
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:145
 msgid "Lestiviel's death"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:144
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:149
 msgid ""
 "Some orcs were discovered lurking in the south forest eaves. Will you come "
 "with us, Master Blacksmith ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:145
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:150
 msgid "Certainly Captain, I'll do my best."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:146
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:151
 msgid ""
 "We shall have need of your great skill at ambushing ! (Laugh...) Enough "
 "dawdling. Here we go, try to stick with me !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:150
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:155
 msgid "They are too swift for me ! But what's that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:154
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:159
 msgid "Hail !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:155
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:903
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1614
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:160
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:908
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1619
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:290
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:387
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1126
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1130
 msgid "Who are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:156
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:161
 msgid ""
 "I'm the spirit of the Barentoine fountain. I drew you here to answer some "
 "questions. You must tell the truth."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:157
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:162
 msgid ""
 "*** to himself *** I think I know this voice. *** Well, what do you want to "
 "know ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:158
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:163
 msgid "Are you a true paladin ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:159
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:164
 msgid "Of course not. Did you look at me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:160
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:165
 msgid ""
 "The look doesn't matter. What you have in your heart is the most important "
 "point. What have you in your heart ? Love ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:161
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:166
 msgid "Mostly I think... I do know this voice..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:162
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:167
 msgid "Does your heart belong to someone ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:163
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:168
 msgid "*** shuts up ***"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:164
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:169
 msgid "You MUST reply, you know !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:165
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:170
 msgid ""
 "Lestiviel !!! I will not reply to such indiscrete questions to you, little "
 "scoundrel. Now take off that stupid hood and stop this game !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:169
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:174
 msgid "You're not funny. You shouldn't have recognized me !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:170
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:175
 msgid ""
 "Poor Lestiviel ! The joke was fine anyway, but what was the purpose of these "
 "questions ? You shouldn't trick people to learn their minds. Asking straight "
 "out would give better results."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:171
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:637
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:176
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:642
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:110
 msgid "But..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:172
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:177
 msgid ""
 "Let me guess. You would like a servant knight like many young girls does, "
 "and tried to see if I could play the role. Isn't it so?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:173
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:178
 msgid "You're too clever and practical. It spoils all the fun."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:174
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:179
 msgid ""
 "If you want a servant knight just for fun, I think I can do that. Else, you "
 "chose wrongly."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:175
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:180
 msgid "You think I'm too young ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:176
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:181
 msgid "No. The point is I'm a stranger here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:177
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:182
 msgid "You're not the only one. I'm a stranger too and I feel very lonely."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:178
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:183
 msgid "You're kidding! Everybody loves you here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:179
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:184
 msgid ""
 "It may look so, but they think I'm not a real elf, you know. Lestiviel Half-"
 "Elf, they call me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:180
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:185
 msgid "But... Your family..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:181
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:186
 msgid ""
 "I have no family. They found me on the bank of the Great River, alone and "
 "unconscious. I can't remember anything before."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:182
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:187
 msgid ""
 "Maybe it's better that way. Every night, I recall the slaughter of all my "
 "kin. I would prefer to dream about you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:183
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:188
 msgid ""
 "So be it. I'll be your friend, you shall be mine and you'll dream about me. "
 "Give me your hand."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:187
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:192
 msgid "What happened ? Everything is dark !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:188
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:193
 msgid "I don't know ! It's not me !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:189
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:194
 msgid ""
 "We should return home quickly ! Come on ! It's not far in the north east !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:190
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:195
 msgid "Yes, but it seems we can't move through the forest ! We're trapped !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:194
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:199
 msgid ""
 "Move Tiomen onto the fountain to open a path in the forest. Beware, it has a "
 "guardian !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:198
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:203
 msgid ""
 "I'm the fountain guardian and you dared to spill its holy water ! En garde !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:202
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:207
 msgid "Look ! What is it ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:203
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:208
 msgid "A unicorn... I wonder where we are."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:204
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:209
 msgid "It seems she wants us to follow."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:208
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:213
 msgid ""
 "Follow the unicorn. Lestiviel must cross the pond and search until something "
 "happens. Then turn back to 1-3,24-27. You'll find a new path heading east."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:212
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:217
 msgid "She waits to show us the way..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:213
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:218
 msgid ""
 "This can be dangerous ! The pond is too deep. I can't follow you. Maybe we "
 "should find another way ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:214
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:219
 msgid "Wait here ! I think I must go there."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:218
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:223
 msgid "Search for Dolmandir, beloved daug..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:222
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:227
 msgid "Huh... Hello..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:223
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:228
 msgid ""
 "We are sorry to disturb you, but we are in trouble. Can you tell us where we "
 "are ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:224
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:229
 msgid "Well... Hmmm... In my private world of course."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:225
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:230
 msgid "Your what ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:226
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:231
 msgid "Private world. Oh, perhaps you never heard of parallel worlds?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:227
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:232
 msgid "Never. What is it ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:228
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:233
 msgid ""
 "You are accustomed to think there is only one world, one universe.  But tis "
 "not true. There are many of them, all sharing more or less the same "
@@ -1161,48 +1171,48 @@ msgid ""
 "place to study."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:229
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:234
 msgid "To study ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:230
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:235
 msgid ""
 "Don't judge too hastily ! Naiads are a very serious matter, far beyond your "
 "weak understanding."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:231
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:236
 msgid "Sure we are !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:232
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:237
 msgid ""
 "(Snort) We don't want to disturb your ... studies any longer, master. Just "
 "tell us how to get out of here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:233
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:238
 msgid "Well... The problem is you shouldn't be here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:234
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:239
 msgid ""
 "Oh no ! You're welcome both of you ! We're tired of being alone with this "
 "old fellow !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:235
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:240
 msgid ""
 "Shut up you silly ones ! I meant it is ordinarily impossible to cross world "
 "boundaries. Only mages and special creatures like unicorns can. But strange "
 "things are happening, suggesting worlds are in some fashion melding together."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:236
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:241
 msgid "Melding ? What do you mean ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:237
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:242
 msgid ""
 "Boundaries are weaker, and some people can exist in more than one world at "
 "the same time. As ghosts or spirits if you prefer. Furthermore, some places "
@@ -1210,32 +1220,32 @@ msgid ""
 "from one to another. At random, I fear..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:238
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:243
 msgid "But why ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:239
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:244
 msgid ""
 "I don't know exactly. One could say it's the way things change, but I "
 "suspect some power is at work."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:240
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:245
 msgid "A power ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:241
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:246
 msgid ""
 "Many powers lie in those realities, and no one could master them all. Except "
 "in melding all worlds into a single one. If one of them fancies doing so, it "
 "would be catastrophic..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:242
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:247
 msgid "Because it would mean the loss of your comfortable thebaide ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:243
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:248
 msgid ""
 "Not only that, foolish girl ! Collapsing all realities would create an "
 "overpopulated world or banish to nothingness many valuable beings. Most "
@@ -1244,300 +1254,300 @@ msgid ""
 "doomed to live as an out-of-place spirit in a world you know nothing of !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:244
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:249
 msgid ""
 "You're a mage ! It's your job to deal with this. You should be ashamed to "
 "lie here in laziness with those impudent creatures !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:245
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:250
 msgid "Lazy is not exactly the right word. He proves to be very active !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:246
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:251
 msgid ""
 "Enough of that. You could be right after all, young lady. At least, I could "
 "help you back to your world. Come !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:250
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:255
 msgid "You look puzzled... Are you lost ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:251
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:256
 msgid ""
 "I know where we are, but I don't know where you come from. That's the point."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:252
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:257
 msgid "Indeed..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:253
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:258
 msgid "Just keep close to me..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:258
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:263
 msgid "Hmmm... Does this look like your world ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:259
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:264
 msgid "Absolutely not ! And we should leave before freezing to death !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:260
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:265
 msgid "OK..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:265
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:270
 msgid ""
 "At last ! The Telshar plague is caught ! After them ! Get them ! Dead or "
 "alive !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:266
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:271
 msgid ""
 "I think we ran straight into some trap. Which of you two is the plague ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:267
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:272
 msgid "Neither ! We'd better leave first and talk in a less crowded place !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:268
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:273
 msgid "Of course ! Of course !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:273
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:278
 msgid "Much better, isn't it ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:274
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:279
 msgid ""
 "Near perfect. Strange things are still crawling toward us, but at some "
 "distance."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:275
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:280
 msgid "By the way, we live in a forest, not in a desert."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:276
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:281
 msgid "Oh really ? I thought..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:277
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:282
 msgid "Just say it. We are lost !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:278
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:283
 msgid ""
 "No ! No ! We're not far away. These worlds are like sheets in a book, you "
 "know. Ordinarily, it's easy to select one, but here, they turn out to be a "
 "great many, thin like cigarette paper. I wonder why..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:283
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:288
 msgid "We came back to your home. Fine ! So what next ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:284
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:289
 msgid ""
 "Not exactly to my home. Look, my cozy hut has vanished, and my gentle mates "
 "too... We are in a slightly different world."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:285
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:290
 msgid "Not exactly ours..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:286
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:291
 msgid ""
 "I'm sorry, but it's really difficult to manage. Somebody made a real mess "
 "here... Maybe this has something to do with that necromancer."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:287
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:292
 msgid "You think the necromancer is responsible ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:288
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:293
 msgid ""
 "Certainly not. He is after you. It wouldn't be very smart of him to create a "
 "bush where you could hide. On the contrary, maybe someone wants you to "
 "escape."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:289
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:294
 msgid "The necromancer can't be after us. There must be some sort of mistake."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:290
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:295
 msgid "Maybe, but I think you could get killed before he sees the error !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:291
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:296
 msgid "So what shall we do ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:292
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:297
 msgid "Let me think..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:293
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:298
 msgid "What about following the unicorn ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:294
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:299
 msgid "Well, maybe she'll prove a better leader than I..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:298
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:303
 msgid ""
 "You shall find the unicorn at 7,27. Follow it on a path newly open. You "
 "should go east for some turns, meet some foes. Then head to the north and "
 "the west until a new apparition occurs (about 27,31)."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:303
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:308
 msgid "Here they are ! Come ! Come !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:304
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:309
 msgid "It seems some of these scum found their way to us."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:309
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:314
 msgid "You'll never get me to do that."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:310
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:315
 msgid "Kill him !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:315
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:320
 msgid "What does that mean ? Who is this man ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:316
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:321
 msgid ""
 "I think we had a glimpse of something in the past. Do you know this man, "
 "sweet maiden ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:317
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:322
 msgid "I don't think so. All this is mysterious to me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:318
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:323
 msgid "At least the axe he dropped is real."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:319
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:324
 msgid "I would leave it, if I were you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:320
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:325
 msgid "No. Please, Tiomen, take it for me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:321
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:326
 msgid "I will. Look ! The unicorn awaits us !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:325
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:330
 msgid ""
 "Turn back and go to 1-3,24-27. The way out is open in the north. Go north to "
 "the road, then move back to the castle in the east and you're done."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:330
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:335
 msgid ""
 "I remember this place. There must be a path to the north and the main road."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:331
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:336
 msgid "Fine. Then, I shall return home myself."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:332
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:337
 msgid "Don't forget - you promised to find the key to all these mysteries !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:333
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:338
 msgid ""
 "I promised that ? Can't remember anything of the like. But I will do my "
 "best. Farewell !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:338
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:343
 msgid "Free at last ! Thank you my friend for your good support."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:339
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:344
 msgid ""
 "I haven't done much. But I think you haven't told the whole truth. You knew "
 "the man we saw in the forest."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:340
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:345
 msgid ""
 "You're right. I do not fully trust lugubrious mage, so I didn't speak "
 "plainly. I am not sure but maybe this man was my father."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:341
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:764
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:346
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:769
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:888
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:916
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:1035
 msgid "Really ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:342
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:347
 msgid ""
 "Yes, and I saw something else beyond the pond you couldn't cross. A picture "
 "of a woman, killed by an orc. She let fall this necklace."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:343
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:348
 msgid "Strange indeed. And what about the axe ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:344
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:349
 msgid "I think you should keep it. I think you should keep the secret too."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:345
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:350
 msgid "You're right."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:346
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:351
 msgid "Can you deny now I did right asking you to look after me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:347
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:352
 msgid "Well... I must admit..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:348
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:353
 msgid "So kiss me now, good my paladin. We don't know what awaits us."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:352
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:357
 msgid "Are you all right ? Where did you hide ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:353
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:358
 msgid "I don't know. It's magic."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:362
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:367
 msgid "On the road"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:371
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:376
 msgid ""
 "Nothing else happened after those strange events, but Tiomen felt more "
 "lonely. The elves were clearly suggesting he had better go. Lestiviel was "
@@ -1545,182 +1555,182 @@ msgid ""
 "decided to leave Glynn's forest and its inhabitants and go to Lord Elfanor."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:377
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:382
 msgid "Carriage destroyed."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:379
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:384
 msgid "Turns run out."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:381
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:386
 msgid "Tath village"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:383
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:388
 msgid "Go to Tath village."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:385
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:390
 msgid "Explore the ominous forest north-east and destroy the haunted castle."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:387
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:392
 msgid "You must destroy the castle too !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:389
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:394
 msgid "Ghost Castle master"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:392
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:397
 msgid "So you're leaving. Which road will you take ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:393
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:398
 msgid ""
 "I'll make for Tath and then to Carcyn along the Grey Woods. There is good "
 "craftmanship in that town."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:394
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:399
 msgid ""
 "This road is probably safer than making for the Great River. But you will "
 "have to climb the Toredril pass and winter comes soon !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:395
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:400
 msgid "That's right, but I will not tarry any longer."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:396
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:401
 msgid "As you like. May a star shine on your steps !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:397
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:402
 msgid "Thanks for your hospitality. Lestiviel is not here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:398
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:403
 msgid "She is in bed. A flu or something of the like."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:399
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:404
 msgid "I would have liked to bid her farewell. Will you do that for me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:400
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:405
 msgid "I will."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:401
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:406
 msgid "So farewell !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:402
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:407
 msgid ""
 "Then Tiomen went out, driving a little carriage bearing his blacksmith tools."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:406
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:411
 msgid "Help !!!"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:410
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:415
 msgid "Thanks traveller !!! It was rough for a bit there !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:411
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:416
 msgid "Let's go to the village. You need healing yet."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:415
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:420
 msgid "How strange ! This wolf suddenly acts tame !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:419
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:424
 msgid ""
 "Nothing particular here. Don't worry about your new friend the wolf. Go to "
 "the village."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:423
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:428
 msgid "So, who comes here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:424
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:429
 msgid "Just an inoffensive traveller."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:425
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:430
 msgid "This wolf is yours ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:426
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:431
 msgid ""
 "I don't know. It follows me like a dog, but I don't know why. It helped me "
 "to get rid of the undead I met on the road."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:427
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:432
 msgid "You met undead ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:431
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:436
 msgid ""
 "Yes. A good number of them. They killed a man near the mountains. I tried to "
 "help him, but I was too late."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:435
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:440
 msgid ""
 "Yeah ! A good number of them ! But for this man, I would have been killed !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:439
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:444
 msgid "These undead are a plague, but we don't know how to get rid of them."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:440
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:445
 msgid ""
 "They all come from a forest in the north east. But the woods are so thick "
 "and so tangled no one has been able to enter them for a long time. Old tales "
 "say there could be a castle there."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:441
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:446
 msgid ""
 "Maybe you could make a path through the forest and find what's going on "
 "there."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:442
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:447
 msgid ""
 "That is easier to say than do. Undead will not let us near. But you seem to "
 "know how to deal with them. If you want the job, we will pay 100 gold "
 "pieces, and I'll find some stout fellows to go with you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:443
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:448
 msgid ""
 "Yeah, but suppose we do find the castle and manage to clean it. The plague "
 "will come back, sooner or later."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:444
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:449
 msgid ""
 "You could take a bomb with you in order to destroy the castle. I'll show you "
 "how to make one."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:445
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:450
 msgid ""
 "Tiomen can now make bombs when he is close to his carriage. Use the special "
 "menu to make and use them. Bombs not only change terrain but kill or hurt "
 "everyone in their range, so keep away !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:449
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:454
 msgid ""
 "The undead castle is hidden in the little wood in the north east "
 "(27-35,1-5). This wood is impenetrable, but you can:\n"
@@ -1733,52 +1743,52 @@ msgid ""
 "hurt units)"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:457
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:462
 msgid "Who dares to come here ? You shall be destroyed !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:461
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:466
 msgid ""
 "Fantastic ! Here is the promised reward ! 100 gold pieces for you and 5 for "
 "your apprentice !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:462
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:467
 msgid "Apprentice ? But I have none !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:463
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:468
 msgid ""
 "I'm quite sure I've seen the little fellow playing with the wolf near your "
 "carriage !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:464
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:469
 msgid ""
 "You must have seen some villager. Anyway I have to go now. I have a long way "
 "to go."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:465
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:470
 msgid "Farewell ! You shall always be welcome here. Have a nice trip !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:470
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:475
 msgid "A Winter Trip"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:479
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:484
 msgid ""
 "So Tiomen left the grateful villagers of Tath and went to the foot of the "
 "Toredril pass. A barren and frozen land haunted by wolves and robbers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:487
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:492
 msgid "Cross the Toredrill pass to the Grey Woods."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:489
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:494
 msgid ""
 "Cold can weaken you during the night and dusk and even kill you. With the "
 "special menu, you can light fires, provided you've fuel at hand, so be sure "
@@ -1786,33 +1796,33 @@ msgid ""
 "can't light more than one at a time."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:491
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:496
 msgid "Robbers"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:493
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:498
 msgid "Wild Beasts"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:495
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:500
 msgid "Go to the Grey Woods."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:497
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:502
 msgid "You don't have to worry about cold effects anymore."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:499
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:504
 msgid "To the Grey Woods"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:502
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:507
 msgid ""
 "The weather looks ugly, Wulfie, but I think you're used to it. Come on ! "
 "Let's cross this place as fast as possible !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:506
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:511
 msgid ""
 "Campfires can be lit when Tiomen is on a forest hex, using the special menu. "
 "They last four turns (three on HARD). They protect against cold. Cold hurts "
@@ -1820,155 +1830,155 @@ msgid ""
 "You can light only one fire at a time."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:511
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:516
 msgid "He... Hello ! I'm frozen to death !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:512
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:517
 msgid "Lestiviel ! But ! Where do you come from ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:513
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:518
 msgid "I was hiding in the carriage, but it's too cold there."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:514
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:519
 msgid ""
 "So you're the apprentice the Mayor saw yesterday ! But why ? If I knew you "
 "were..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:515
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:520
 msgid "You wouldn't have let me come with you. Neither would the others."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:516
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:521
 msgid "Indeed ! Look around ! Is this a place for you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:517
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:522
 msgid "I don't know, but I had to go. Can I come with you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:518
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:523
 msgid "It's a little late to ask. But come and try to warm a little."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:523
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:528
 msgid "Let's try to reach these houses. Maybe we could shelter there !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:527
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:532
 msgid ""
 "Hail travellers ! You look heavily loaded ! Don't worry, we know how to "
 "lighten your burden."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:528
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:533
 msgid "Please ! We have no money, and my tools are not valuable to you !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:529
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:534
 msgid "Maybe... maybe... Search the carriage you all ! I'll manage the man..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:533
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:538
 msgid "And I'll take care of this cute little one... Keep quiet darling..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:538
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:543
 msgid "What ? What's that ? Desfir ! Are you OK ?"
 msgstr ""
 
+#. [unit_type]: id=J_Swimmer, race=human
 #. [unit_type]: id=Phantom Horseman, race=human
-#. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
 #. [unit_type]: id=Swimming Patti, race=human
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:539
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:544
 #: ReturnToNoelren/units/Characters/Phantom_Horseman.cfg:20
 #: ReturnToNoelren/units/Characters/SwimmingPatti.cfg:37
-#: ReturnToNoelren/units/Noelren/Swimmers.cfg:30
+#: ReturnToNoelren/units/Noelren/Swimmers.cfg:36
 msgid "..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:540
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:545
 msgid "You... You petrified my daughter ! Undo it immediately !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:541
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:546
 msgid "But... but... I can't !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:542
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:547
 msgid ""
 "You'd better do something quickly. Else, I could explode this pretty head of "
 "yours !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:543
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:548
 msgid ""
 "And most probably get petrified too ! As all those who assault her. But she "
 "can't help it, you know !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:544
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:549
 msgid "But... but... My Desfir ? Will she recover ? What shall I do ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:545
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:550
 msgid "She would be perfect as a scarecrow..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:546
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:551
 msgid "I don't like your humor. Beware ! There must be a solution !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:547
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:552
 msgid ""
 "Well... Maybe elvish healers could do something. I don't know... I'm so "
 "sorry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:548
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:553
 msgid ""
 "There are some elves not far from here in the west. Elves are not usually "
 "friendly but since you look more elvish than us, maybe they will help. Take "
 "her in the carriage you lazy footpads and go !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:552
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:557
 msgid ""
 "You must go to the signpost in the west (labelled: to Greywoods). Anyone on "
 "your side can trigger the victory (but you can move everyone there if you "
 "like the challenge.)"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:557
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:562
 msgid "Greywoods"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:566
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:571
 msgid "Find the Elves"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:568
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:573
 msgid "Bat the great"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:572
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:577
 msgid "Destroy the lair and kill all the monsters"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:574
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:579
 msgid "Should we kill the orcs too ? (For fun only)"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:578
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:583
 msgid ""
 "Here we are. Elves are somewhere in the north, but we should go through the "
 "forest. Orcs avoid it, and there is often a squad of them on the road."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:582
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:587
 msgid ""
 "You'll find the elves north east, about 1-18,1-15. Don't use the road: there "
 "are deep swamps in the north and orcs too. It's no use to fight the monsters "
@@ -1978,202 +1988,202 @@ msgid ""
 "party. She can not be hurt very much and will gain willing allies."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:588
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:593
 msgid "Hey ! Where do you think you're going there ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:589
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:594
 msgid "Well... We were searching for the elves who live in this wood."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:590
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:595
 msgid "OK, you found them. Now you can leave. You're not wanted here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:591
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:596
 msgid "I could shove those harsh words back down your throat..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:592
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:597
 msgid "Try it. Believe it or not, I'm not alone..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:597
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:602
 msgid "Please ! We wish only to speak with one of your healers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:598
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:603
 msgid ""
 "Who are you ? You look quite elvish, but what are you doing with this scum ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:599
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:604
 msgid ""
 "Well... It would be a long speech to go. We mean no harm and no trouble. Can "
 "we pass ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:600
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:605
 msgid "No. I'll call for someone."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:605
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1226
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:610
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1231
 msgid "What's going on ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:606
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:611
 msgid "-- Blushing -- Good lady ! We seek healing for this gentle lass !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:607
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:612
 msgid "Oh, I see. Wait a minute... "
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:611
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:616
 msgid "Oooh ! What happened ? I can't remember anything !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:612
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:617
 msgid "You're alive ! Thank gods ! And many thanks to you madam !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:613
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:618
 msgid "How did this came to happen ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:614
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:619
 msgid "Well, she proved to be a little too rude to Lestiviel. And..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:615
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:620
 msgid "Really ? You have this power, gentle damsel ? "
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:616
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:621
 msgid "-- Blushing -- Well, I don't know... I didn't meant any harm, but..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:617
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:622
 msgid ""
 "-- Smiling -- Don't worry. It's quite common among Telshar people, and "
 "you're probably one of them. I thought there was none left on this side of "
 "the sea."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:618
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:623
 msgid ""
 "I don't understand and I know nothing about Telshar. I'm just Lestiviel the "
 "half elf."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:619
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:624
 msgid "Half elf ? Who told you that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:620
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:625
 msgid ""
 "Elfanor and his kin at Glynn's wood. They found me when I was a child, near "
 "the Great River."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:621
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:626
 msgid ""
 "Could you be a survivor ? Sweet damsel, I think we should have a long talk "
 "together. But not here. Will you come with me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:622
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:627
 msgid "And the others ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:623
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:628
 msgid "Let them go. I think they have what they wanted."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:624
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:629
 msgid ""
 "Certainly madam ! I wish I could reward you in some way. Maybe, purging your "
 "fine forest of these foul bats we met earlier ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:625
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:630
 msgid ""
 "We can do that by ourselves and did it many times. But the foul beasts "
 "always come back. The lair itself should be destroyed. Can you do that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:626
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:631
 msgid "I think Tiomen can."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:627
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:632
 msgid "I ? But..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:628
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:633
 msgid "Don't you know how to craft explosive balls ? That should work !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:629
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:634
 msgid "Come on lad ! I'm curious to see that."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:630
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:635
 msgid "I'm curious too. I shall go with you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:631
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:636
 msgid "But don't forget to bring him back to me ! He's my only friend !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:636
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:641
 msgid "Onward now."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:638
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:643
 msgid "What's the problem ? Are you afraid of some mudcrawlers ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:639
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:644
 msgid "I'm not, except in the woods..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:640
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:645
 msgid "You're an elf friend and know not how to fight in the woods ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:641
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:646
 msgid "They tried to teach me at Glynn's... But..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:642
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:647
 msgid ""
 "I fear they never gave you a well suited equipment. How about this bow ? ... "
 "Child toy... Hey ! Derniel ! Get me a bow and a coat for him !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:643
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:648
 msgid "Hm... And for us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:644
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:649
 msgid ""
 "I wouldn't give you anything which would help you to sneak and wander wildly "
 "in our forests !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:645
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:650
 msgid "** Sigh **"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:646
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:651
 msgid ""
 "OK, now, put on this coat, and you, get your troops ready. You can use the "
 "keep here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:650
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:655
 msgid ""
 "Head south to bomb the monsters' keep. It's not a normal castle, only a sand "
 "bank, but you should be able to discover it by finding where the leader "
@@ -2181,24 +2191,24 @@ msgid ""
 "You have to destroy the keep and kill all the bats and mudcrawlers to win."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:655
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:660
 msgid ""
 "Well ! Good job. And now, how about shooting some ugly orcs ? There is a "
 "camp in the north east."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:659
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:664
 msgid ""
 "The motto here is clear and simple: if you think your sword is rusting in "
 "idleness, FTOAKTA ! (Find The Orcs And Kill Them All)."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:664
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:669
 msgid "To Elensefar"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:673
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:678
 msgid ""
 "Sylvanil and elder elves held a great council about Lestiviel and world "
 "affairs. At last, they decided she should be sent back to her kin who lived "
@@ -2208,7 +2218,7 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:679
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:684
 msgid ""
 "At first, they travelled easily in the woods and rested at night in Carcyn. "
 "There, they heard news about orcs wandering on the main road to Elensefar. "
@@ -2216,78 +2226,78 @@ msgid ""
 "but Sylvanil wouldn't have them tarry any longer."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:687
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:692
 msgid "Move the carriage to the signpost"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:689
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:694
 msgid ""
 "In this scenario, ordinary units die in water. Beware ! Elementals & sea "
 "dwellers will not follow in recall list."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:693
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:698
 msgid "Create elemental fire."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:695
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:700
 msgid "Water Monsters"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:697
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:702
 msgid "Drying"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:700
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:705
 msgid "Here we are. Elensefar is due West. But the road looks unsafe."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:701
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:706
 msgid ""
 "Yeah. There's an orc encampment right there. Maybe we could escape them "
 "crossing the swamps."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:702
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:707
 msgid "OK grunts. You can hunt these elves if you want, but beware the flood !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:706
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:711
 msgid ""
 "Hey ! What are you doing here ? These swamps are treacherous, you know !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:707
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:712
 msgid "Treacherous maybe. But not as deadly as those orcs on the road."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:708
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:713
 msgid ""
 "There are things worse than orcs hidden in the water. Furthermore, you shall "
 "be drowned in the water lest you can fly. The sea is low by now, but soon it "
 "shall rise. Beware the tide."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:709
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:714
 msgid ""
 "But we are not strong enough to fight our way through the orcs. What can we "
 "do, young lady ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:710
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:715
 msgid "I will help you to find your way in the swamps. Come on..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:711
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:716
 msgid "Sylvanil and Tolivia can evoke elementals.(Special Menu)."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:715
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:720
 msgid ""
 "Here the sea submerges low terrains and kills units except flying and "
-"swimming ones (in your party, Lestiviel and Tolivia only). Changes occur "
-"each two turns: quagmire, swamps, sand are flooded in this order. Hills and "
-"grass are always safe.\n"
+"swimming ones (in your party, Lestiviel, Sylvanil and Tolivia only). Changes "
+"occur each two turns: quagmire, swamps, sand are flooded in this order. "
+"Hills and grass are always safe.\n"
 "The road is dangerous, because of orcs and more enemies to come. Use the "
 "water spirits of Tolivia (special menu) to discover and fight the monster "
 "hidden in the water, and move Lestiviel to the north flank. She can tame "
@@ -2300,292 +2310,292 @@ msgid ""
 "Note: elemental units shall not be recallable in further levels."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:723
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:728
 msgid "I said: avoid the water ! Are you dumb ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:727
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:732
 msgid "*** Sigh ! *** They're all idiots and I'm their boss !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:731
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:736
 msgid ""
 "We made it ! I can see the towers of Elensefar. Tolivia ! How can we thank "
 "you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:732
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:737
 msgid ""
 "Don't worry ! I don't like orcs any more than you do, and it was a pleasure "
 "to help you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:733
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:738
 msgid "Accept my blessing and all my thanks."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:734
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:739
 msgid "You're welcome, gentle lady."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:738
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:743
 msgid "Eh ! Eh ! We found them ! Nobody can escape Jani's eye !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:739
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:744
 msgid "I would be glad to know why they're so eager to catch us."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:740
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:745
 msgid ""
 "There are powers here you know nothing of, gentle blacksmith. Just hurry "
 "on ! The town is not far away and they will not dare to follow us here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:745
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:750
 msgid "Parting"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:748
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:753
 msgid "It's time to part now. The boat awaits us."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:749
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:754
 msgid "Can't Tiomen come with us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:750
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:755
 msgid "I already told you it's impossible. I'm sorry."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:751
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:756
 msgid ""
 "So farewell, good my friend. I leave the good Wulfie in your care. Shall we "
 "meet again ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:752
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:757
 msgid ""
 "I hope so. But you are in good hands now. Where you're going, there is no "
 "place for a plain blacksmith like me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:753
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:758
 msgid "In my home country, maybe, but you do have one in my heart."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:757
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:762
 msgid "We're going home now. Shall you go with us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:758
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:763
 msgid "No thanks. I think I'll try to find a job here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:759
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:764
 msgid "So good luck and farewell, elf-friend !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:763
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:768
 msgid ""
 "Maybe there's no place for you in the Western Islands, Tiomen, but I know a "
 "place where a good blacksmith would be welcomed."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:765
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:770
 msgid ""
 "In Alnoth Island. There, my people are at war with nagas. We are merfolk and "
 "craftmanship is not our strong point. Will you come with me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:766
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1360
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:771
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1365
 msgid "Gladly !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:771
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:776
 msgid "Alnoth Island"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:778
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:783
 msgid ""
 "At the end of a peaceful journey, Tiomen and his fellows reached Alnoth, a "
 "small island in the warm south."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:785
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:790
 msgid "Smash the Nagas"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:787
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:792
 msgid "Find the smugglers' hideout."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:791
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:796
 msgid "Smugglers"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:793
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:798
 msgid "Patti & Boney"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:796
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:801
 msgid "You should go to work at once. We are in dire need of those weapons."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:797
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:802
 msgid "OK, I'll work as fast I can."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:801
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:806
 msgid "Tiomen must keep close to his fire in order to make weapons."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:805
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:810
 msgid ""
 "Tiomen must keep close to his fire to create special tridents. You've only "
 "to kill the nagas, but you should try to advance some units. Your mermen "
 "army will return one day."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:809
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:814
 msgid ""
-"C'mon Wulfie ! Tridents are not fitted for wolves ! Oh, well... if really "
-"want it..."
+"C'mon Wulfie ! Tridents are not fitted for wolves ! Oh, well... if you "
+"really want it..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:813
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:818
 msgid ""
 "We got rid of these cruel nagas ! That's great ! But we didn't find the "
 "smugglers who supplied them with weapons. Could you explore the island and "
 "try to find where they hide ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:814
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:819
 msgid "No problem, Come on Wulfie !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:815
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:857
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:820
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:862
 msgid "Grrrr..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:819
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:824
 msgid ""
 "Go east to explore. Something will happen near the little lake at "
 "32-40,28-38."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:823
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:965
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:828
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:970
 msgid "Are you all right ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:824
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:829
 msgid ""
 "Hmm... Yes... Unless you're one of these unpleasant men who stride here and "
 "there searching for gold and I don't know what."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:825
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:830
 msgid "I'm not, and you've nothing to fear. Who are these men ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:826
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:831
 msgid ""
 "I don't know. I never saw them before. But you made them flee. I think I "
 "will be quite safe with you. My name is Patnaworsimeshiflormana."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:827
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:832
 msgid "Uuh ? What ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:828
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:833
 msgid "But you can call me just Patti !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:832
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1134
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:837
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1139
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:884
 msgid "What's going on here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:833
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:838
 msgid ""
 "Oh ! Here comes my sister Bonitershiflormana ! Sweetie ! This gentleman "
 "helped me to get rid of some queer guys bothering me I don't know why."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:834
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:839
 msgid "You don't know why ? I always told you not to bathe naked !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:835
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:840
 msgid "But ! Oh ! Do you really think they would have... ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:836
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:841
 msgid "Yeah ! I really think. By the way, maybe you could get dressed now ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:837
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:842
 msgid "Oh ! Yes ! Sure !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:838
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:843
 msgid ""
 "And now to you, mister gentleman. Who are you ? And what are you doing here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:839
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:844
 msgid "My name's Tiomen and I came here with an Undine named Tolivia."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:840
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:845
 msgid ""
 "Tolivia ? So she's back. Good news indeed ! But you're not one of the "
 "merfolk. Are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:841
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:846
 msgid ""
 "I am not. I'm just a blacksmith, and for now, I'm searching for the retreat "
 "of some smugglers who sold weapons to the Nagas."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:842
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:847
 msgid "Good idea ! But you would be wiser to search closer to the sea."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:843
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:848
 msgid "I... I don't know the country very well."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:844
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:849
 msgid "That's pretty clear. And what will you do if you find them ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:845
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:850
 msgid "Well... I haven't really thought about it."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:846
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:851
 msgid ""
 "Maybe we'd better come with you. We are tired of all these strangers messing "
 "about ! Patti are you ready ? Where is the bow I gave you yesterday ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:847
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:852
 msgid "Here ! But..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:848
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:853
 msgid "Come, Baghi and the wolf have already caught the track !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:852
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:857
 msgid ""
 "The smugglers' hideout is in the mountains at 20,9. When it comes close "
 "enough, Wulfie will catch the track, move and reveal the entrance.\n"
@@ -2593,132 +2603,132 @@ msgid ""
 "pop out (at 21,10 for instance). Kill them and enter the cave."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:858
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:863
 msgid "Here they are. Ready your bow, Patti !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:859
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:864
 msgid "Well... But have we to enter this ugly cave ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:860
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:865
 msgid ""
 "No ! We shall smoke them out like foxes. And when they spring out, shoot "
 "them as I show you. In the eye !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:861
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:866
 msgid "In the eye ? Really ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:862
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:867
 msgid "That's it ! Master blacksmith, could you light a fire ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:866
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:871
 msgid "Hey ! Are you mad ? It hurts !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:867
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:872
 msgid "I'm sorry ! I missed your eye !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:868
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:873
 msgid "Missed my eye ? But... You're fool ! I'm just an honest trader !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:869
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:874
 msgid ""
 "Trader ? Honest ? Traders don't hide in troll's holes ! Shoot again, Patti !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:873
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:878
 msgid ""
 "All right ! It seems they all got out. Maybe we should have a look inside."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:874
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:879
 msgid ""
 "Inside ! There is certainly lot of smoke, and queer things... or beasts... "
 "or..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:875
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:880
 msgid "Don't play your hillbilly ! I'm sure it's worth seeing ! Come on !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:880
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:885
 msgid "Alnoth caves"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:883
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:888
 msgid ""
 "Kill the last smuggler and explore the cave. You should easily find a "
 "prisonner at the end of a tunnel."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:887
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:892
 msgid "Search the caves"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:890
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:895
 msgid "Hum... Hello..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:891
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:896
 msgid "Maybe you're one of these... traders we met earlier ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:892
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:897
 msgid "Well... Hem... Yes, exactly... I'm a trader, that's the word."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:893
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:898
 msgid ""
 "Traders or whatever you could be are not wanted here. Pack your things and "
 "be gone !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:894
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:899
 msgid ""
 "That's exactly what I was doing. I have just a trifle or two left to carry "
 "onboard and I'll leave !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:895
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:900
 msgid ""
 "This gold ? No, You'll leave it here in order to repair the damage you've "
 "done."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:896
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:901
 msgid "Leave my gold ? You're kidding ! Let me go or prepare to die !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:897
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:902
 msgid ""
 "Master Blacksmith ? As our guest, you have the privilege to shoot him first !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:898
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:903
 msgid "Hum... Thanks, really !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:902
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:907
 msgid "Thank you my ladies and you sir ! I was beginning to starve here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:904
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:909
 msgid "Glynoin at your service ! I came from the caves of Thoria."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:905
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:910
 msgid ""
 "Oh I see ! You're one of those rabbit-like people who dig rabbit holes "
 "everywhere without leave ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:906
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:911
 msgid ""
 "No ! No ! Lady ! Certainly not without leave ! I have just looked and gnawed "
 "a little here and there to get an idea. But think about it ! If we could "
@@ -2726,66 +2736,66 @@ msgid ""
 "island."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:907
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:912
 msgid "And what do you think you would find here ? Gold ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:908
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:913
 msgid ""
 "Better than gold ! Look ! I was scratching a little here when the smugglers "
 "caught me. Come ! I'll show you something exceptional !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:912
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:917
 msgid "A dwarf ! A dwarf ! After him !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:913
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:918
 msgid ""
 "Exceptional indeed ! A new bunch of unwanted intruders ? Is this what you "
 "wanted to show us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:914
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:919
 msgid "But... But... No ! I knew not..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:915
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:920
 msgid "They look much too strong to fight ! Let's run to a quieter place !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:919
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:924
 msgid "Look ! I think I saw something in the water !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:920
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:925
 msgid ""
 "You're right ! Those are sea monsters and they shall block our way back !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:921
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:926
 msgid "Finally, we shall have to fight."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:922
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:927
 msgid "Glynoin ! Could you dig these walls to give us an exit ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:923
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:928
 msgid ""
 "Yes, but most walls are hard and strong here, and it would take too much "
 "time. Maybe there are some weaker points..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:924
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:929
 msgid "Then find them ! Hurry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:925
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:930
 msgid "Glynoin can dig in some places. Use special menu."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:929
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:934
 msgid ""
 "You have to retreat here. Move the dwarf first and Boney last. She will be "
 "able to block all the trolls as long as needed.\n"
@@ -2797,25 +2807,25 @@ msgid ""
 "order."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:935
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:940
 msgid "The way is open ! Come on ! Hurry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:939
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:944
 msgid ""
 "Patti and I shall hold the passage. Get the rabbit-hole digger with you and "
 "try to find an exit !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:940
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:945
 msgid "Are you sure ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:941
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:946
 msgid "Don't worry ! We're not as mild as we look !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:945
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:950
 msgid ""
 "Don't worry about the two sisters. They shall hold the fort and join you "
 "later. Let Glynnoin find his way digging here and there. Keep south as much "
@@ -2824,46 +2834,46 @@ msgid ""
 "unattended helper."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:951
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:956
 msgid ""
 "Patti dear, could you hold this tentacle for me ? It would be easier to "
 "eviscerate this damned serpent."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:952
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:957
 msgid ""
 "Yes honey. Did you see this giant spider running at us ? She's so cute ! "
 "Maybe she's coming to help us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:953
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:958
 msgid ""
 "Cute maybe, but I would say she most probably wants to eat us. Hold on !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:957
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:962
 msgid ""
 "Please ! Could you help a bit instead of staring stupidly at this monster. "
 "Shoot him !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:958
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:963
 msgid "But where ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:959
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:964
 msgid "As usual ! In the eye !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:960
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:965
 msgid "But it has so many eyes !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:961
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:966
 msgid "SHOOT !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:966
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:971
 msgid ""
 "Yeah ! Yeah ! It was so exciting ! Boney is always growling but we had great "
 "fun, you know ! Especially when the big monster came to the help of the "
@@ -2871,57 +2881,57 @@ msgid ""
 "very angry at her. Then Boney had some sort of explosive device and... and..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:967
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:972
 msgid "Where is Boney ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:971
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:976
 msgid ""
 "I'm here ! The bomb was a great thing, but I fear the passage is fully "
 "blocked now."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:972
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:977
 msgid "The bomb ? Which bomb ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:973
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:978
 msgid "The one I stole from your pack. Did you find an exit ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:974
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:979
 msgid "No. Not yet..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:978
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:983
 msgid ""
 "Hey you ! What's going on ? Why are you digging here and there without "
 "leave ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:979
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:984
 msgid "I knew we would run into trouble with the rabbit-holes digger !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:980
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:985
 msgid "Rabbit-holes digger ! Grmbl..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:981
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:986
 msgid "Pardon me. We're just trying to escape this cave."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:982
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:987
 msgid ""
 "Rock and stone ! You should have said so earlier, without bashing and "
 "smashing good stone. I'll get you to an exit."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:983
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:988
 msgid "Pardon me again. Who are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:984
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:989
 msgid ""
 "You air smellers have little opportunity to meet my kindred. I'm a rock "
 "spirit. We live in stone and build houses and towns you'd never be able to "
@@ -2929,245 +2939,245 @@ msgid ""
 "knowing not what they do ! But enough of that ! Come with me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:988
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:993
 msgid ""
 "Beware ! We shall cross a place where many bats are sleeping. You should "
 "keep silent and noiseless !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:992
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:997
 msgid "Patty ! Don't touch... !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:996
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1001
 msgid ""
 "I'm so sorry ! I just gave her a little pat on her head ! They are so cute !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:997
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1002
 msgid "Who comes here to disturb our sleep ? Trespassers ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:998
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1003
 msgid ""
 "We are sorry, Madam ! But we don't mean any harm ! We are just making for "
 "the exit in the west."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:999
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1004
 msgid "Yeah, I know you, but the others ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1000
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1005
 msgid "They are air smellers and just want to get out."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1001
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1006
 msgid ""
 "That's OK, but the way is dangerous. Ugly strangers made their home a little "
 "further on. They make rude noises and even eat us when they can !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1002
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1007
 msgid ""
 "Strangers ? There are too many of them these days ! Where are they ? We "
 "shall wipe them out !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1003
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1008
 msgid ""
 "Really ? That would be fine with us. Maybe we little winged people could "
 "help ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1007
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1012
 msgid ""
 "So, you're in good hands now. I can leave and come back to my own business."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1008
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1013
 msgid "Many thanks for your help."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1009
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1014
 msgid "Just try to keep an eye on these hole diggers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1010
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1015
 msgid "Sure ! We don't want this island turned into a garen !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1014
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1019
 msgid ""
 "There is no special trick here. Help the bats to kill the trolls. Kill the "
 "undead next (you didn't see them already ? just kill the trolls first !) and "
 "go to the south-west exit"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1018
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1023
 msgid "Ahem ! Tiomen ! I have news for you ! A great threat is upon you !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1019
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1024
 msgid "Yes, but that is not really news."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1020
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1025
 msgid "Who is this old goat ? Another rabbit-holes digger ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1021
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1026
 msgid "Some sort of, young lady. But I don't dig earth. By the way..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1022
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1027
 msgid "Can't you see we are busy ? Maybe you could help a bit and talk later ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1023
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1028
 msgid "Well..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1027
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1032
 msgid "Just a minute !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1028
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1033
 msgid "Who are you and what do you want ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1029
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1034
 msgid ""
 "You have something that belongs to my master. Give it back to me, and maybe "
 "I'll let you live."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1030
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1035
 msgid ""
 "I have nothing and know nothing of your master. Glynnador, do you understand "
 "what he means ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1031
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1036
 msgid ""
 "Well... I tried to warn you. He wants the axe. The one you picked up in "
 "Glynn's wood."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1032
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1037
 msgid "That rusty old thing ? It must be in my carriage."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1033
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1038
 msgid "Don't try to cheat me ! I see it perfectly clearly at your belt !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1034
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1039
 msgid "At my belt ? But... My goodness ! How did it come there ? It's magic !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1035
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1040
 msgid ""
 "Certainly ! There is great power in this weapon. It's name is Aelthrank the "
 "Undead Slayer. It should have felt there are some dusty old skulls to break "
 "here and went straight to its master."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1036
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1041
 msgid "Give it to me ! Quickly !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1037
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1042
 msgid ""
 "If your master has a claim on this object, why not come personnally to ask "
 "for it ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1038
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1043
 msgid ""
 "My master has much more important things to do than dealing with a lowly "
 "blacksmith ! Obey or fear his wrath !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1039
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1044
 msgid ""
 "Maybe this guy just wants the thing for himself. In my opinion, you "
 "shouldn't give it over."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1040
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1045
 msgid ""
 "And I will not. It came to me quite mysteriously, and I want to know how and "
 "why before making a decision."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1041
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1046
 msgid ""
 "Then I shall take it from your dying hands ! Rise, my lads, and crush them "
 "all !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1042
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1047
 msgid ""
 "Today, things seem always to come to that. Watch your bones, dirty rag, I "
 "begin to get really angry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1046
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1051
 msgid "Arrgh ! My master will avenge this !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1050
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1055
 msgid "Oh ! I loved the way you made this ugly thing vanish !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1051
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1056
 msgid "Look ! The bone sack dropped something ! A paper maybe..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1052
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1057
 msgid "The writing is faint and the paper worn out. I can't read anything !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1053
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1058
 msgid ""
 "Give it to me ! I have some knowledge of these things. A light exposure to "
 "fire, and..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1054
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1059
 msgid "Et voila !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1055
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1060
 msgid "Some would say you only spoiled the job. Can you read better now ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1056
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1061
 msgid ""
 "This has something to do with Noelren. It seems his master summoned him "
 "there at the end of his errand. I can't decipher anything else."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1057
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1062
 msgid "Let's go out ! This place is not fit to talk."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1062
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1067
 msgid "Counsels"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1065
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1070
 msgid "Thanks the gods, you are safe ! What happened ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1066
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1071
 msgid ""
 "We shall tell you later. For now, mister Magic, could you explain the "
 "situation ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1067
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1072
 msgid ""
 "Of course ! As I told you earlier, I think the worlds melded. Did you notice "
 "the strange wood in the cave ? It was part of another different world hurled "
@@ -3175,195 +3185,195 @@ msgid ""
 "where they were not found earlier."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1068
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1073
 msgid ""
 "That's right ! We're not used to seeing trolls or undead here. It was a "
 "peaceful land, and I can't understand how they got here, and let's not "
 "forget the rabbit-holes digger !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1069
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1074
 msgid "Grmbl... You !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1070
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1075
 msgid "Do you mean things could be getting worse ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1071
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1076
 msgid ""
 "Alas, I do. But I thought and inquired about the strange apparitions we saw "
 "in Glynn's wood. Do you remember, Tiomen ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1072
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1077
 msgid "Of course ! That is where I got this astonishing axe."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1073
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1078
 msgid ""
 "There we had a glimpse of past events. But this scene was set up by someone "
 "on purpose."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1074
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1079
 msgid "Who ? and what for ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1075
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1080
 msgid ""
 "I don't know exactly, but it must be a powerful necromancer. All of them are "
 "not mind-rotten and willing to rule everything, you know. Some are true "
 "knowledge lovers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1076
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1081
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:835
 msgid "So what ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1077
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1082
 msgid ""
 "I guess two powers of the same kind fight here. So I think you should try to "
 "find this necromancer, Tiomen. Not the one chasing you, the other one."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1078
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1083
 msgid "And how could I find him ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1079
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1084
 msgid ""
 "I don't know, but I think you have no better choice. If you stay here too "
 "long, or in any other place, you shall be discovered and killed eventually. "
 "And who knows what would happen, should they get Aelthrank ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1080
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1085
 msgid "Merfolk will help you as much as we can, Tiomen..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1081
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1086
 msgid ""
 "How do you know I will attempt this quest ? I could throw the axe in the sea "
 "and forget all this."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1082
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1087
 msgid ""
 "But you shall not because you're a generous man. I know that. Meet me at the "
 "harbor, I'll get your boat ready."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1086
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1091
 msgid "And now, how about a nice cup of tea for those who stay ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1087
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1092
 msgid "I would be charmed !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1088
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1093
 msgid "I too !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1092
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1097
 msgid "So you're going now, at once ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1093
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1098
 msgid ""
 "Yes, I think so. I would like to stay a little more, but Glynnador is "
 "probably right. It would attract here a lot of ugly people. You don't need "
 "that."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1094
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1099
 msgid "Will you come back one day, when all this has ended ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1095
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1100
 msgid "Maybe... Do you think a blacksmith could have a place here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1096
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1101
 msgid ""
 "A blacksmith, I don't know, but you're the only person with whom I don't "
 "feel awkward and ridiculous. Come back soon !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1100
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1105
 msgid "Have you also something definitive to say ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1101
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1106
 msgid ""
 "No. Just that I would have come with you if I didn't have a lot of work "
 "here, keeping an eye on newcomers and on Patti too."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1102
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1107
 msgid "She's able to watch out for herself, don't you think ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1103
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1108
 msgid ""
 "Did you notice the way this Glynnador looks at her ? I don't like that... "
 "But it's time now. Farewell and keep your axe busy !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1108
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1113
 msgid "Nerins shores"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1118
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1123
 msgid ""
 "After a short journey, Tiomen landed ashore near Nerins, fleeing the "
 "Necromancer armies."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1125
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1130
 msgid "Go to the signpost."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1128
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1133
 msgid ""
 "Here we must part. The river is not deep enough for your boat, and I would "
 "not be at ease on dry land."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1129
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1134
 msgid "Thanks for everything !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1130
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1135
 msgid ""
 "Anyway, if you need help near the shore, blow this whistle close to the "
 "water. Merfolk will come and help if they can."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1135
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1140
 msgid "They are burning a woman, as you can see. A witch they say."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1136
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1141
 msgid "That is ridiculous !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1137
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1142
 msgid "I thought I heard someone griping here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1138
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1143
 msgid "You did !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1139
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1144
 msgid "You would interfere in Janishad doings ? Catch him !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1143
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1148
 msgid ""
 "Of course, you must kill the Janishaders and save the poor burning wretch. "
 "Villagers will not interfere, so you need not kill them all (nothing "
@@ -3373,205 +3383,205 @@ msgid ""
 "weak targets in their range very quickly."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1148
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1153
 msgid "Thanks, caballero ! You were just in time !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1149
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1154
 msgid ""
 "Twas nothing ! I wonder why those villagers let such things happen. You're "
 "not a witch, are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1150
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1155
 msgid "Actually, I am..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1151
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1156
 msgid "Well... Ahem... anyone have a complaint ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1152
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1157
 msgid ""
 "Nothing happened. Absolutely nothing. We never saw you nor this woman in our "
 "whole life."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1153
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1158
 msgid "I think they would prefer us to go. Come on..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1154
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1159
 msgid "Can I come with you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1155
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1160
 msgid ""
 "Well... If you want. But I must warn you I don't know clearly where I'm "
 "going."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1159
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1164
 msgid "Nebo is ourssssssss !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1160
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1165
 msgid "No ! cccccertainly not ! It'sssssssss our god ! Not yourssssssssssss !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1161
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1166
 msgid ""
 "We never let our god touch your dirty ssssssslimy handssss ! Keep away !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1162
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1167
 msgid ""
 "We are in middle of an argument here. Let us try to slip out discretely !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1163
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1168
 msgid ""
 "Your claim is sssssssssso sssssssssstupid that even hot-blooded mindless "
 "humans like these would find it ridiculousssssss... if only you dared tell "
 "it to them !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1164
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1169
 msgid "Good travellerssss ! Be arbiterssss between usssssssss !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1165
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1170
 msgid "Where is this Nebo you're arguing about ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1166
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1171
 msgid ""
 "Our venerable god sssssssitsssss just behind you, on the border of our "
 "territoriesssss."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1167
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1172
 msgid ""
 "And you're fighting for this old rotten piece of wood ? You should be "
 "ashamed ! I know how to make an agreement."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1171
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1176
 msgid "Vow ! Great diplomacy ! Solomon wouldn't have done better !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1172
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1177
 msgid "Ssssssssacrilege !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1173
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1178
 msgid "Death to the blassssssphemersssss !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1178
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1183
 msgid "Trolls Holes"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1187
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1192
 msgid "Find Dolmandir"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1190
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1195
 msgid "Gosh ! That was close ! Why did you provoke them ? Are you mad ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1191
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1196
 msgid "I only wished to know if you're really the man I'm searching for."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1192
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1197
 msgid "Who ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1193
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1198
 msgid ""
 "The Aelthrank bearer. Your coming was foretold and I was sent to lead you to "
 "Dolmandir, my master."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1194
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1199
 msgid ""
 "I never heard that name before. Who is he and what does he want from me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1195
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1200
 msgid ""
 "Very few people know the name. But Dolmandir is the greatest necromancer one "
 "can meet in those worlds. He wants to speak with you and can answer most of "
 "your questions. Won't you come ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1196
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1201
 msgid "All right..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1197
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1202
 msgid ""
 "We should leave your carriage here. We have to cross rough country, a valley "
 "colonized by trolls."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1198
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1203
 msgid "Isn't that dangerous ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1199
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1204
 msgid ""
 "Not so. These trolls are Dolmandir's servants. They will not attack us. "
 "Look !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1203
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1208
 msgid "Hail Gloruk ! I'm back !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1204
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1209
 msgid ""
 "I see, but not gladly ! The master and you have spoiled the country with "
 "your magics. The river is flooding our holes and we are angry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1205
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1210
 msgid ""
 "Rivers are not in our command. This has nothing to do with our master or I. "
 "Let me pass, we're in a hurry !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1206
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1211
 msgid ""
 "I will not ! This land is ours and my people shall drive you out of here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1207
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1212
 msgid "Stupid fool !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1211
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1216
 msgid "Do you always deal with contradictors like that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1212
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1217
 msgid ""
 "Don't be silly. We have no time to spare in arguing with these blockheads !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1213
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1218
 msgid "Fighting them shall delay us too."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1214
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1219
 msgid ""
 "Not so. At dawn, they all must hide in their holes or get petrified. I fear "
 "more the flood he spoke of. If the river submerges the road, it can be very "
 "dangerous. We should be cautious !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1218
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1223
 msgid ""
 "You'll easily find Dolmandir in the north, but trolls are in the way. \n"
 "They hide in their holes at dawn, and spring up at dusk (as every well-bred "
@@ -3583,83 +3593,83 @@ msgid ""
 "to journey in the west side of the map."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1227
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1232
 msgid ""
 "Most probably new guests joining the hunting party. Aelthrank is glowing."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1231
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1236
 msgid "Go on, lads ! Catch me this dirty little rat !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1235
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1240
 msgid ""
 "Kill the woman ! I want the man alive ! He will get infinite torments, the "
 "reward reserved to those who defy the great Jani."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1236
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1241
 msgid "He will not, and you will stop at once."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1237
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1242
 msgid "Who dares to..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1238
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1243
 msgid "I, Dolmandir, master of this land."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1239
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1244
 msgid ""
 "Old fool ! Can't you understand your time is over and your power useless "
 "against the will of Jani ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1240
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1245
 msgid ""
 "Useless ? That we shall see at once... <span color='#48D27E'>Ora gadul "
 "maval... vanish now you all foolish Jani servants, and let the north wind "
 "scatter your impudent shadows !</span>"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1241
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1246
 msgid "The master ! The master comes ! Fly !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1245
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1250
 msgid ""
 "<span color='#48D27E' size='large' font-style='italic'>Die and vanish ! NOW !"
 "</span>"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1249
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1254
 msgid "Aaaargh ! Jani will avenge..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1250
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1255
 msgid ""
 "<span color='#48D27E' size='xx-large' weight='bold'>VANISH INSOLENT "
 "MESSENGER OF DEATH ! RETURN TO YOUR FOUL MASTER ! DIE NOW !</span>"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1254
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1259
 msgid "Follow me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1259
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1264
 msgid "Replies"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1262
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1267
 msgid "Come in and look. You know this man, don't you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1263
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1268
 msgid "I do. He appeared to me and let fall Aelthrank. Is he dead ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1264
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1269
 msgid ""
 "Yes. And his wife too. For now, I maintain them as they are. I could "
 "reanimate them but I fear Jani could get control of them. The woman is the "
@@ -3667,31 +3677,31 @@ msgid ""
 "which can challenge Jani."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1265
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1270
 msgid "But she is dead and impotent."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1266
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1271
 msgid "Exactly, but they had a child who escaped the pursuit. Where is she ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1267
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1272
 msgid ""
 "How could I know if you don't ? Oh ! I see ! You mean Lestiviel ? She is "
 "gone to an island far in the West."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1268
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1273
 msgid ""
 "Glandranil ? She will be safe there, but only for a while. The island will "
 "be besieged, if not done."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1269
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1274
 msgid "But what else could be done ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1270
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1275
 msgid ""
 "You did your best, my friend ! But it would be better if she had come here. "
 "She would have gotten the heirloom of Telshar house from her mother and we "
@@ -3699,32 +3709,32 @@ msgid ""
 "wait idly."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1271
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1276
 msgid "We ? But what am I doing in all this ? I'm just a plain blacksmith !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1272
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1277
 msgid ""
 "But the girl did choose you, my friend ! That's why you got Aelthrank and "
 "why you must take your place in the fight !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1273
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1278
 msgid "She is very young and meant joking !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1274
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1279
 msgid ""
 "Maybe she didn't choose wrongly. And I doubt you'll accept willingly to end "
 "a short life, hunted down like a wild beast, will you ? Wouldn't it be "
 "better to rise and fight before they corner you in some dark place ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1275
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1280
 msgid "What, then ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1276
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1281
 msgid ""
 "Jani managed to meld the worlds of Wesnoth and Noelren, and, as one would "
 "expect, this resulted in great troubles and wars. Wesnoth turned out to be a "
@@ -3733,97 +3743,97 @@ msgid ""
 "would be a heavy blow to us. You should go there, your help is needed."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1277
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1282
 msgid "I ? You're joking ! I'm not a warrior."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1278
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1283
 msgid ""
 "When the great fail, lesser men must raise the flag. In this, I can help you "
 "a little, giving you more strength than you have now. Close your eyes..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1282
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1287
 msgid "Now, You should be ready to face Jani's followers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1283
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1288
 msgid "Alone ? I feel ridiculous !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1284
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1289
 msgid ""
 "Maybe you didn't discover yet the full power of Aelthrank. It's not only a "
 "weapon, it can raise the spirits too and muster friends all around. Othra "
 "will accompany you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1289
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1294
 msgid "Errands."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1298
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1303
 msgid ""
 "After these strange events, Tiomen reluctantly followed the witch on their "
 "way to Noelren. He didn't know anything of this land and kept thinking he "
 "was of little use in these great affairs."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1306
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1311
 msgid "Move the carriage to the end of the road to Noelren."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1308
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1313
 msgid "W - Nerins -- Noelren - E"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1310
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1315
 msgid "This scenario will not work well if you create units in debug mode."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1313
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1318
 msgid "Here lies the road to Noelren."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1314
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1319
 msgid "Who are those trolls ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1315
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1320
 msgid "Dolmandir set them to escort us. Don't worry."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1319
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1324
 msgid "But where is the road ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1320
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1325
 msgid ""
 "There was a road indeed, but things are really different now. The reason "
 "must be that worlds are melding here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1321
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1326
 msgid "What shall we do ? We can't pass."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1322
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1327
 msgid "Maybe we can make our way through another world."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1323
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1328
 msgid "How ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1324
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1329
 msgid ""
 "We have to find a door. It should be a piece of terrain foreign to the "
 "surrounding country. Like a snowy mountain in grassland. Something of the "
 "like. Let us explore."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1328
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1333
 msgid ""
 "This level is rather tricky because your units will be scattered on "
 "different maps. \n"
@@ -3849,219 +3859,219 @@ msgid ""
 "Move to the north and you shall find the first tunnel: a desert village."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1344
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1349
 msgid "The undead didn't give up ! Look ! Aelthrank is glowing !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1345
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1350
 msgid "Hurry then ! We must find the door !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1349
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1354
 msgid "Help us please ! We are trapped here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1350
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1355
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:842
 msgid "What happened ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1351
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1356
 msgid ""
 "We don't know. Yesterday, we awoke in this ugly place. Many of us have "
 "already died !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1355
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1360
 msgid "Now you're in the desert. Next tunnel is a cave village in south east."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1359
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1364
 msgid "Hey ! New travellers ? How about joining us to find an escape ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1361
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1366
 msgid ""
 "We met some lost elves here too. You don't mind having them with us, do you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1362
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1367
 msgid ""
 "Of course we don't. We must all stick together, no matter which race we are."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1366
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1371
 msgid "In the cave, the next tunnel is a water village south west."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1370
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1375
 msgid "Hi wanderers !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1371
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1376
 msgid "Hi sea dwellers ! Can you tell me where the coast lies ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1372
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1377
 msgid ""
 "Not far to the north. But if you adventure here, you should beware of "
 "saurians. They've gone mad and forbid trespassing to everyone !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1376
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1381
 msgid "In the swamps, the next tunnel is a snowy village in the north east."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1380
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1385
 msgid "Hi ! Who are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1381
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1386
 msgid "Lost travellers."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1382
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1387
 msgid "Just as we are. I couldn't imagine so much frost so far in the south."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1383
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1388
 msgid "You're right, but we're not in the south."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1384
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1389
 msgid "Where are we, then ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1385
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1390
 msgid "Who knows ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1389
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1394
 msgid ""
 "In the snow, next tunnel is an ordinary village south (you should follow the "
 "coast, more or less)."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1393
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1398
 msgid ""
 "The road at last ! I think we made it ! But there are a lot of ugly fellows "
 "here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1397
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1402
 msgid "Move the carriage to the signpost."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1401
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1406
 msgid "It seems we made it ! Many thanks to you, travellers !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1406
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1411
 msgid "To Fremagel"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1415
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1420
 msgid ""
 "Most rescued people would have followed to the war, but wisely, Othra "
 "dismissed those not experienced enough and the merfolk who were of little "
 "use on dry land."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1423
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1428
 msgid "Go east."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1425
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1430
 msgid "Drive the horses to the east border."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1427
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1432
 msgid "Horse's chief death."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1429
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1434
 msgid "Too many horses were lost !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1432
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1437
 msgid "Grorgh arrrrgh  krrouik sfrrtch !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1433
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1438
 msgid "Huh ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1434
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1439
 msgid "He says he wants to struggle for you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1435
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1440
 msgid "He says ? You really understand Yeti speech ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1436
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1441
 msgid "I do. My grandmother was... well... married to a yeti."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1437
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1442
 msgid ""
 "Since it's a family affair, I suppose he may come. I hope the war will be "
 "over before this party turns into a zoo."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1441
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1446
 msgid ""
 "Hi ! You're a blacksmith, aren't you ? We need your help. My companion's "
 "horse lost one of its horseshoes."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1442
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1447
 msgid "Who are you ? I think we met earlier..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1443
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1448
 msgid ""
 "Of course we did. We met in the Grey Woods. You were acquainted with a "
 "strange young maiden and a gang of unfrequentable scoundrels."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1444
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1449
 msgid "I remember now ! But what are you doing so far from home ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1445
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1450
 msgid ""
 "Well, we came to fight for the kingdom of Noelren. Here, we are driving "
 "these horses to the town. They are needed for the war."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1446
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1451
 msgid "Noelren ! At last ! Come on ! Show me that horse !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1450
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1455
 msgid ""
 "Look at this appetizing flock ! We shall feast on horse meat this night !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1451
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1456
 msgid "But the horses are not alone ! Those herders look stout and wary !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1452
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1457
 msgid ""
 "Slay the horse chief first and the whole flock will scatter everywhere. Then "
 "we shall butcher them easily !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1456
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1461
 msgid ""
 "Easy my lads ! Try to get ahold of this carriage while they're busy "
 "elsewhere. To be so heavy, it must be full of gold !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1460
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1465
 msgid ""
 "Enemies are hiding in the shroud, but there's nothing special about them. \n"
 "The horse leader is on your side, so you can move it where you want. \n"
@@ -4073,12 +4083,12 @@ msgid ""
 "You must save most of the horses, so don't let them fight. They're too weak."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1470
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1475
 msgid "Meeting princess Anuviel."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1480
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1485
 msgid ""
 "It proved that Beren was a young knight from Nerins, living at Noelren's "
 "court as a guest and a pupil. In their need, the princes of Noelren sent him "
@@ -4086,17 +4096,17 @@ msgid ""
 "quite alone."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1487
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1492
 msgid "Hail my lady ! I'm back at your orders !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1488
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1493
 msgid ""
 "Welcome good knight of Nerins ! But I hoped to see your returning with much "
 "more fellows ! Did Nerins refused to help us ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1489
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1494
 msgid ""
 "No, lady, no ! But Nerins army counts mainly men on foot. And unfortunately, "
 "in the swamps of Deerins, we fell into a battle. Usually, the saurians who "
@@ -4104,101 +4114,101 @@ msgid ""
 "and the army had to turn around their country."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1490
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1495
 msgid "Glups !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1491
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1496
 msgid ""
 "That's grievous ! And I fear they will be too late ! Scouts have already "
 "reported enemies on the road to Fremagel. The castle is besieged, and help "
 "is needed at once or never !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1492
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1497
 msgid "No news from Wesnoth ? I thought they would come."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1493
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1498
 msgid ""
 "General Cleogan is finally marching to assist us. But he is still far away. "
 "He has not yet crossed the Aethen river."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1494
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1499
 msgid "What shall we do then ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1495
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1500
 msgid ""
 "I can't tarry here, far from the battle ! My place is in Fremagel. I shall "
 "go there with what companions I can find."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1496
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1501
 msgid "I and my fellows will come with you, lady. We're not many, but..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1497
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1502
 msgid "Who are they ? They don't look like Nerins folks."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1498
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1503
 msgid "And they are not. I met them on the road."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1499
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1504
 msgid "I must warn you, guys. We have no gold to pay mercenaries."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1500
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1505
 msgid ""
 "We came from the Grey Woods to fight by your side, lady, not to earn money."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1501
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1506
 msgid "Then you're welcome, elves of the Grey Woods. And you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1502
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1507
 msgid ""
 "I ? Well... I'm just a plain blacksmith, and an elf friend. If you have use "
 "for me, I would be glad to help..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1503
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1508
 msgid ""
 "He is a little more than he pretends, lady ! His arm is strong and his axe "
 "heavy !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1504
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1509
 msgid ""
 "Welcome then, master blacksmith ! In our need, any help is welcomed. But we "
 "must travel fast, so you'll have to leave your tools here. Take some "
 "refreshment now and get ready. We shall leave at dawn."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1508
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1513
 msgid "We have to leave you here. Speed is wanted, and we can't ride horses."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1509
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1514
 msgid "I'm on foot too. It would be grievous to part now."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1510
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1515
 msgid ""
 "I'm sorry. Another reason is we are kin to the Sambrands who besiege "
 "Fremagel. We can't fight them."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1515
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1520
 msgid "The siege of Fremagel."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1522
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1527
 msgid ""
 "Fremagel was a strong castle erected to watch the eastern borders of the "
 "land. The fierce look of its battlements impressed greatly the newcomers. "
@@ -4206,54 +4216,54 @@ msgid ""
 "meet her father and bring him news."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1529
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1534
 msgid "Defend the ford"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1531
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1536
 msgid ""
 "Your army, except heroes, shall be dismissed at the end. Maybe some of them "
 "will return, but much later."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1533
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1538
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:17
 msgid "Don't think you can kill me so easily !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1535
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1540
 msgid "Move Anuviel to Kalandriel."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1538
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1543
 msgid "Beloved daughter ! How are you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1539
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1544
 msgid ""
 "Well.  But the news is not so. Both our allies are delayed and I lead only a "
 "few people here."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1540
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1545
 msgid ""
 "That's grievous. But be welcomed, you all. Our bridges are well manned, but "
 "a little ford in the forest remains unguarded. Could you forbid its passage ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1541
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1546
 msgid "Certainly, my liege !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1542
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1547
 msgid "I'll come with you. Onward men !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1546
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1551
 msgid "Here is the ford. Call on our troops now !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1550
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1555
 msgid ""
 "You need only hold the ford with your army, which shouldn't be difficult. \n"
 "Princess Anuviel can do the recruitment if you need. \n"
@@ -4265,233 +4275,233 @@ msgid ""
 "them will return, but much later."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1558
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1563
 msgid "The bridges are lost ! Let us retreat to the castle !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1562
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1567
 msgid ""
 "Look ! It seems those allies have an argument. Maybe there's still hope !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1563
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1568
 msgid ""
 "Hey ! You Janishaders ! So you left us all the dirty work and now intend to "
 "plunder all the bounty ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1564
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1569
 msgid "He is right ! Go and fight to earn your share !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1565
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1570
 msgid "Dirty little rats ! Beware my wrath ! Rise loyal servants of Jani !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1566
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1571
 msgid "We must retreat now ! These woods offer no more shelter !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1570
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1575
 msgid "Dear friends ! All is lost."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1571
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1576
 msgid "My liege ! We could... !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1572
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1577
 msgid ""
 "No Beren, no. My best soldiers befell defending the bridges, and here remain "
 "only unexperienced troops. But you can already save what can be. My daughter "
 "and my sword."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1573
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1578
 msgid "Your sword ? But..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1574
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1579
 msgid ""
 "Yes. Foregast, the black sword, scepter of my house. Even if I fall, it must "
 "not fall in the hands of our enemies. If you can make them both escape, then "
 "hope still remains."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1575
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1580
 msgid "My Lord, I don't know..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1576
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1581
 msgid ""
 "Have I misjudged you ? Is this cowardice ? Don't you feel honored to be "
 "chosen by the King ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1577
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1582
 msgid ""
 "My Lady, I feel the honor but the burden too. I don't know if I'm strong "
 "enough to bear it. But I will do as you wish."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1578
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1583
 msgid "Hurry then ! The castle is nearly surrounded."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1581
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1586
 msgid "Look ! Reinforcements come ! But these are not Sambrands."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1582
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1587
 msgid "No, most probably they are Janishaders from the South."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1583
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1588
 msgid ""
 "Janishaders ? We encountered some in Nerins, but they were religious and "
 "peaceful people. They evangelize a god named Jani."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1584
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1589
 msgid ""
 "Evangelize ? Their words can be soft and gentle, but it's only a mask ! "
 "Their Jani is not a god but a powerful and cruel necromancer."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1585
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1590
 msgid ""
 "That's right. We've dealt with these scum earlier. Robbers and cowards are "
 "they, but obeying fanatically their priests. They will show no mercy."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1589
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1594
 msgid ""
 "Dwarves are defeated ! But I fear it's not the end. Let us retreat to the "
 "castle !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1603
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1608
 msgid "What's that ? Somebody replaced our gatekeepers with strangers !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1604
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1609
 msgid "Cleogan's soldiers, I think. See the Wesnoth arms !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1605
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1610
 msgid "But this is MY castle, not his ! Where is he ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1609
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1614
 msgid "Anuviel ! My dear ! So you escaped the siege ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1610
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1615
 msgid "Not by your help, alas ! Where were you hiding all these days ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1611
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1616
 msgid "I was not hiding, but delayed."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1612
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1617
 msgid "And can you explain why you changed the gatekeepers ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1613
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1618
 msgid "My dear child, you clearly understand not what is going on."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1615
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1620
 msgid "Akh-Solen. A wise one. You should listen to him, dear."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1616
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1621
 msgid ""
 "Even if it is injurious to your pride, you should admit that Fremagel's fall "
 "is a complete disaster. Noelren has no more army, no more king. Don't you "
 "think it's time to negotiate ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1617
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1622
 msgid "Negotiate with the Sambrands ? Is this your counsel ? Cowardice ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1618
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1623
 msgid ""
 "Peace, young man ! It's not cowardice, but wiseness and realism. Young "
 "lady ! How do you think you can keep on fighting ? Nerins ? Their army is "
 "weak !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1619
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1624
 msgid "And what about Cleogan's troops ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1620
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1625
 msgid ""
 "I must account for their use to my king, my dear. Weldynn has no troops to "
 "spare in purely honorific affairs."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1621
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1626
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:913
 msgid "Are you joking ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1622
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1627
 msgid ""
 "Not at all. The Sambrands just want a place to live in peace, and you have a "
 "lot of land to spare. Let them settle down and they shall become allies."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1623
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1628
 msgid "They shall swallow all the country, if no one stands against them !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1624
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1629
 msgid "This can be avoided if you give me a good reason to stay, my dear."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1625
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1630
 msgid "Which one ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1626
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1631
 msgid "Marry me. I'll stay here and my troops with me."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1627
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1632
 msgid "I have to think on this."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1631
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1636
 msgid ""
 "My Lady ! It's pretty clear this Cleogan wants your throne ! Maybe he agreed "
 "with the Sambrands to tear your kingdom in two ! I think I saw this Akh-"
 "Solen with the Janishaders at Fremagel !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1632
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1637
 msgid "Maybe. But have we better choices ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1633
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1638
 msgid ""
 "Come with me to Nerins ! Here we can rouse the land and make some resistance."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1634
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1639
 msgid ""
 "No, my friend, no. The strength of our foes is far too great. Nerins cannot "
 "withstand it even if they wanted to. I must accept Cleogan's proposal."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1635
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1640
 msgid "My Lady !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1636
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1641
 msgid ""
 "Please ! Speak no more ! I know you love me, Beren, but I must do what I can "
 "to save what can be saved. As you, I don't trust Cleogan, so the black sword "
@@ -4499,56 +4509,56 @@ msgid ""
 "come."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1637
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1642
 msgid "I will, but not gladly. I fear your choice will turn amiss."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1638
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1643
 msgid ""
 "Fare thee well, sweet my knight. And thank your companions for me. They were "
 "strange but trustworthy, and I grieve being unable to reward them."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1642
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1647
 msgid "What news ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1643
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1648
 msgid ""
 "We are dismissed. Queen Anuviel will marry general Cleogan. The war is over."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1644
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1649
 msgid "There's some treachery at work. The Queen..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1645
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1650
 msgid ""
 "The Queen thanks everyone here and wants us to leave. I'll go to my "
 "homeland, Nerins."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1646
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1651
 msgid "What shall you do, Tiomen ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1647
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1652
 msgid ""
 "I think I shall return to my former life if I can. I have a circus to "
 "manage, now."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1648
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1653
 msgid "And the Aelthrank ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1649
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1654
 msgid ""
 "I think it should be returned to your master, Dolmandir. This burden is too "
 "heavy. I can't wield it anymore."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-1.cfg:1650
+#: ReturnToNoelren/story/RTN_Dials-1.cfg:1655
 msgid "So be it. I hope we all meet again in more pleasant times !"
 msgstr ""
 
@@ -6195,8 +6205,8 @@ msgstr ""
 
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:727
 #: ReturnToNoelren/story/RTN_Dials-2.cfg:1062
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1089
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1164
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1093
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1168
 msgid "Defeat all enemy leaders"
 msgstr ""
 
@@ -7001,48 +7011,52 @@ msgid ""
 "say we found a little treasure. I'll bet you could use some ready money, no ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1072
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1071
+msgid "That's enough ! Build a bridge to cross this damned river !"
+msgstr ""
+
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1076
 msgid "Nerins swamps"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1081
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1085
 msgid ""
 "Resting only a few hours, Anuviel's party set out to war. The Nerins Lady "
 "explained she hoped to ambush Cleogan and his army in the swamps lying east "
 "of the town."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1092
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1096
 msgid "Well well well ! Look who is caught in our trap !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1093
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1097
 msgid "Isn't she the witch who took our god away ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1094
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1098
 msgid "Don't be ridiculous. Set me free."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1095
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1099
 msgid ""
 "Set you free, when you're responsible for all our problems ? All is going "
 "wrong here: war, floods, starvation and we have no more god to worship and "
 "ask for help !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1096
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1100
 msgid "I'm not responsible for that... You..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1097
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1101
 msgid ""
 "Shut up ! We'll take you to the city and give you there, in long torments, "
 "the reward you deserve !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1098
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1102
 msgid ""
 "Well... Glups... You're totally astray. I'm not a miscreant but a Nebo "
 "prophet. What you endure is the reward of your innumerable sins, and I was "
@@ -7050,76 +7064,76 @@ msgid ""
 "see if you've had enough punishment and are ready for Nebo to return !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1099
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1103
 msgid ""
 "Nebo coming back ? That would be awesome, but what's the proof you can do "
 "that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1100
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1104
 msgid "Didn't I make it disappear ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1101
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1105
 msgid "Well I suppose... it's debatable..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1102
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1106
 msgid ""
 "Just have faith ! Nebo wants one more thing from you before returning: wipe "
 "out these miscreants who worship the god Jani !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1103
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1107
 msgid "So, to arms my friend, to arms !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1104
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1108
 msgid "Hey ! Don't leave me here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1108
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1112
 msgid "Onward, sons of Alnoth ! For friendship and freedom !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1112
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1116
 msgid "To Noelren now ! There should not be many soldiers left in the town !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1116
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1120
 msgid "Cleogan ! It's so nice to meet you again !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1117
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1121
 msgid "I'm delighted too, my Lady ! At last I found you !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1118
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1122
 msgid "At last ? You knew perfectly well to where I was banished, didn't you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1119
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1123
 msgid ""
 "Not at all ! Not at all ! I admit I have been bewildered some time by the "
 "enchantments of the wicked witch who took your place, but I..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1120
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1124
 msgid ""
 "Wicked witch ! So this is how you hope to slip through ? Blaming her for "
 "all ? I never met such a coward..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1124
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1128
 msgid "Anuviel ! Please it's all a terrible mistake !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1125
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1129
 msgid ""
 "Don't waste your words. She is too civilized to talk with barbarians like us."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1127
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1131
 msgid ""
 "Ecken the Black, at your service... You know, we can understand each other "
 "easily because we are both simple guys. To us, there are only two kinds of "
@@ -7129,23 +7143,23 @@ msgid ""
 "even imagine."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1128
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1132
 msgid "Can't you distinguish between a legitimate sovereign and a bandit ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1129
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1133
 msgid ""
 "I don't... To me it's all the same. Most often, the one we call king is "
 "merely a bandit too powerful to be hanged. It's only a euphemism. In the "
 "end, there's not much difference."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1130
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1134
 msgid ""
 "I'll show you the difference ! Reinforcements shall come soon and then..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1131
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1135
 msgid ""
 "Yeah... Yeah... You shall try to threaten us with your precious Jani as many "
 "others did earlier. But for now, your army is scattered and you're alone. "
@@ -7156,450 +7170,450 @@ msgid ""
 "fine tree ahead."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1135
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1139
 msgid "Now we have fulfilled our duty. It's time to call Nebo back, isn't it ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1136
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1140
 msgid "Well... Come with me..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1140
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1144
 msgid "Nebo... Nebo is back !!! Miracle !!!"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1141
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1145
 msgid "Impressive ! You have a real artistic skill with these fireballs !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1142
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1146
 msgid ""
 "You know, it was my primary vocation. I learnt magics only to sculpt things "
 "more easily, but later..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1147
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1151
 msgid "Weldyn conquest."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1156
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1160
 msgid ""
 "Meanwhile, Garard and his allies headed straight to Weldyn in order to "
 "destroy the last army of King Duluth."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1166
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1170
 msgid "Hidden crypt"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1169
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1173
 msgid "Shadow casters ! Beware ! They are deadly !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1173
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1177
 msgid "This what I was afraid of. Clan's men coming to fight us !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1174
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1178
 msgid "Wait, I'll try to speak them."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1178
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1182
 msgid ""
 "Here we are men ! Just in time to sweep out this rebel peasant mob ! "
 "Chaaaaarge !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1179
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1194
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1201
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1206
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1246
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1248
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1183
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1198
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1205
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1210
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1250
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1252
 msgid "Hurray !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1180
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1184
 msgid "Please sir ! Just a minute !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1181
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1185
 msgid "Hurry then ! My spear is eager for blood !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1182
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1186
 msgid ""
 "Please consider the situation a little. Do you really plan to help this "
 "wretched king we have ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1183
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1187
 msgid ""
 "Our king is bad and stupid, that's pretty clear, but peasants can't be "
 "allowed to rebel against their legitimate lords, it would be... well... "
 "democracy !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1184
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1188
 msgid "Maybe they wouldn't rebel if they got a better king. Don't you think ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1185
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1189
 msgid ""
 "Your speech is incredibly seditious ! A better king ! Who ? You ? One of "
 "these wanderers ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1186
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1190
 msgid "No, no, we thought of someone both noble and expert at war."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1187
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1191
 msgid "Indeed ? Who is he ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1188
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1192
 msgid ""
 "I can't speak openly, because it would be incredibly seditious, but... let's "
 "say it's the closest one to the crown... geographically speaking..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1189
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1193
 msgid "I think I am very close... to your point. By all means."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1190
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1194
 msgid "Shall we fight then ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1191
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1195
 msgid ""
 "No, there would be no glory in smashing those stupid peasants. And I seek "
 "for renown and glory."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1192
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1196
 msgid "And your men ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1193
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1197
 msgid ""
 "They are dull and do what I tell them to do. Men ! The time has come to "
 "crush these foul Janishaders who spoil and despoil our fathers' country ! "
 "Chaaaaaarge !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1198
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1202
 msgid "Our throne pretender is dead. Too bad !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1199
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1203
 msgid "Our lord is dead ! What shall we do now ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1200
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1204
 msgid "Follow me ! We've still a battle to win !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1205
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1209
 msgid "We won the battle !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1207
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1211
 msgid "Now, we must find the king and put an end to this mess."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1208
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1212
 msgid "He must be hiding in the castle, like a coward."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1212
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1216
 msgid "Where is the king ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1216
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1220
 msgid "Look ! There is a passage here. Let's explore it..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1220
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1224
 msgid "What an ugly place ! I don't like these caves !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1221
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1225
 msgid "Wait ! I hear someone whispering..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1225
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1229
 msgid "Who dares come here without leave ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1226
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1230
 msgid "Look ! He was sacrificing this child ! For shame !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1227
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1231
 msgid "He converted to Janishad. This explains many things."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1228
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1232
 msgid "So what ? Is it shameful to practice one's religion ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1229
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1233
 msgid "This one, yes... It's only murder, violence and lies."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1230
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1234
 msgid ""
 "You don't know what you're talking about. Jani is the only god, and we must "
 "worship him ! Your blasphemies shall be punished !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1231
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1235
 msgid ""
 "Jani is not god. He abuses people with false prophecies and promises. You're "
 "not the first one who cursed us in his name. But nothing ever happened. I'll "
 "bet he promised you eternal life."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1232
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1236
 msgid ""
 "Yes he did ! And I shall live forever ! Forever ! I'm the servant of Jani "
 "and nobody can hurt me ! Nobody ! No..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1236
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1240
 msgid "What happened ? Did you ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1237
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1241
 msgid "No... The axe slipped off my belt."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1238
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1242
 msgid ""
 "The power of Telshar lies in it. Poor wretch... Like the others, Jani abused "
 "him and left him helpless."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1239
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1243
 msgid "So you'll have to rule the kingdom of Wesnoth now !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1240
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1244
 msgid ""
 "I ? But... I thought you would take the throne... You deserve it more than "
 "I..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1241
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1245
 msgid "No... I'm ill suited to that job, and my task is not yet done."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1245
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1249
 msgid "Long live king Garard !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1247
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1251
 msgid ""
 "Thanks, my good friends ! With your help, I'll try to be a better king than "
 "the former one !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1249
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1253
 msgid "And you, Tiomen ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1250
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1254
 msgid ""
 "We have still to find Dolmandir, and help the Queen to recover her heirloom. "
 "I'll go south."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1251
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1255
 msgid ""
 "I'll leave some troops here and go with you. We shall never be secure until "
 "we are rid of the last Janishad."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1256
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1260
 msgid "The last battle."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1265
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1269
 msgid ""
 "The victorious armies occupied Noelren without battle. However, the "
 "Janishaders were still a threat, and some days later they were challenged."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1273
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1277
 msgid "Resist Jani's servants' assault."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1276
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1280
 msgid "Hey ! Come in ! I found a way to Dolmandir !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1277
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1281
 msgid "OK ! I think we can leave you. These foes look not so dangerous."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1278
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1282
 msgid "Yes, I agree. Try to came back soon !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1279
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1283
 msgid "I think I should come too. I have a strange feeling."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1283
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1287
 msgid "You fell in our trap. We shall crush your bones to dust !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1284
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1288
 msgid "I wonder what all this means. I hope the others are safe !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1289
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1293
 msgid "Treachery"
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1298
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1302
 msgid ""
 "Meanwhile, Glynnador had led his followers on a long journey underground. At "
 "last, they came to a little room, lit by a little lava lake."
 msgstr ""
 
 #. [part]
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1299
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1303
 msgid "Meeting Dolmandir."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1305
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1309
 msgid "Forbid access to Lestiviel."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1308
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1312
 msgid "You'll find Dolmandir in this room."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1309
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1313
 msgid ""
 "Strange ! Dolmandir didn't used to hide in holes. He should have welcomed "
 "us !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1313
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1317
 msgid ""
 "But... But... You killed Othra and petrified the others ! Why did you do "
 "that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1314
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1318
 msgid ""
 "Don't worry, darling ! The others are safe. They're just waiting quietly for "
 "their lawful master. And Othra would have given us trouble."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1315
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1319
 msgid "Their master ? I don't understand !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1316
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1320
 msgid ""
 "That's not surprising. There's not much wit in your charming little head. "
 "You should rely on me. Can't you see this struggle against Jani is "
 "desperate ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1317
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1321
 msgid "You betrayed us to Jani ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1318
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1322
 msgid ""
 "Betrayal is an ugly word, but that's right. We have no choice, you know, "
 "lest you consider death a choice. Jani shows no pity to his enemies."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1319
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1323
 msgid "So be it. I would never buy safety at this price."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1320
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1324
 msgid ""
 "Don't be silly ! We can have a wonderful life together. Don't you love me ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1321
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1325
 msgid ""
 "I did, but I realize you don't. To you, I'm but a naive doll, a stupid "
 "puppet in your hands. Your heart ignores love. It's filled with cunning and "
 "greed ! Go away !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1322
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1326
 msgid "What do you think you can do ? Jani's servants are on their way here !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1323
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1327
 msgid "I don't mind."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1324
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1328
 msgid "Stupid little thing ! If you think you can..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1329
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1333
 msgid "Patti ! Darling ! This is ridiculous ! Stop it at once !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1330
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1334
 msgid "Get lost !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1334
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1338
 msgid ""
 "Resist as much as you can. Sweet Patti will not die and will be rescued just "
 "in time."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1339
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1343
 msgid "The last battle-II"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1342
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1346
 msgid ""
 "We're outnumbered. This begins to look ugly. I hope the others will return "
 "soon !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1343
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1347
 msgid ""
 "I have an idea. Remember those toxic mushrooms we found near Gryphons "
 "Mountains ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1344
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1348
 msgid "Yes, so what ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1345
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1349
 msgid "I collected some spores then just in case. Why not use them now ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1346
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1350
 msgid "This could be dangerous. We don't know how they will behave."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1350
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1354
 msgid "There's nothing special here: its a plain battle. Kill them all !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1354
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1358
 msgid ""
 "Alfir can drop spores (and recover movepoints) using right-click menu.\n"
 " \n"
@@ -7607,88 +7621,88 @@ msgid ""
 "Right-click on them."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1361
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1365
 msgid "Treachery-II"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1364
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1368
 msgid "Haven't you had enough ? Surrender, and you'll keep your life !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1365
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1369
 msgid ""
 "Don't cheat me. I don't mind the life you offer, a slavery full of shame and "
 "sorrow."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1366
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1370
 msgid ""
 "If this is what you want... Onward guys ! Need just a kick to get her down !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1370
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1374
 msgid "I'll manage this personally. Let us alone."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1375
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1379
 msgid "Don't come too close. I'm not dead yet !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1376
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1380
 msgid "You've nothing to fear. Where is Lestiviel ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1377
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1381
 msgid "I will not let you touch her. Get lost !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1378
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1382
 msgid "But who do you think I am ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1379
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1383
 msgid "Jani perhaps, or one of his captains. But I don't care !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1380
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1384
 msgid "You're totally astray. I'm Dolmandir the mage. Where is Othra ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1381
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1385
 msgid "Othra is dead !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1382
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1386
 msgid "That's grievous ! What happened here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1383
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1387
 msgid ""
 "Glynnador told us he knew a way to meet you, if only you are who you pretend "
 "to be. But it was a trap. He killed Othra and petrified the others: "
 "Lestiviel, my sister and Tiomen."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1384
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1388
 msgid ""
 "Tiomen is here ? Fine. Now, you shall go to sleep young lady. You're deeply "
 "wounded and need rest. You did really well here. Few people would have "
 "resisted the fear of Jani as you did. Go to sleep now."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1388
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1392
 msgid "Patti ! Are you OK ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1389
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1393
 msgid "I put her to sleep, but she is alive."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1390
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1394
 msgid "Dolmandir ! How are you here ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1391
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1395
 msgid ""
 "The unicorn found a way to me and I came as fast as possible. Unfortunately, "
 "treachery was at work too. But we have not much time to spare. Lestiviel, "
@@ -7696,93 +7710,93 @@ msgid ""
 "think."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1396
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1400
 msgid "Victory"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1399
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1403
 msgid ""
 "Hold on ! Begone, foul servants of Jani ! Leave this world and never come "
 "back !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1403
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1407
 msgid ""
 "You've lost Akh-Solen. Your master is gone and your troops scattered. Lady, "
 "he did much evil things against your house. You should pronounce his doom."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1404
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1408
 msgid "I don't mean revenge. Just break his power if you can."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1405
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1409
 msgid "This shall be done at once."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1409
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1413
 msgid ""
 "Your staff is broken and your power down, Akh-Solen. Now, start wandering !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1413
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1417
 msgid "So it is done ? I can't believe it !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1414
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1418
 msgid ""
 "T'is done, in truth, but we will not enjoy it all together. We must part. "
 "You know that ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1415
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1419
 msgid "I suspected it long ago."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1416
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1420
 msgid ""
 "Fare thee well, Tiomen Dragonheart ! Noelren will never forget your fight "
 "for its liberty."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1417
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1421
 msgid "And this land will weep forever the lost kingdom of Noelren !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1418
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1422
 msgid ""
 "Maybe, but I grieve to be in debt to you for rescuing my queen and true "
 "love, knowing I will never be able to repay you !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1419
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1423
 msgid ""
 "Don't worry and may a star shine on your union ! Fare thee well, good my "
 "friends !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1423
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1427
 msgid "Now it's time to me to part too..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1424
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1428
 msgid "I know, and it's grievious..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1425
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1429
 msgid ""
 "Really ? This breaks my heart, but for you ? You never took seriously my "
 "love. Tiomen, did you love me a little ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1426
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1430
 msgid ""
 "Don't you know ? Indeed I love you, more than you think, more than my own "
 "life, but I knew from the beginning, we would never belong to each other. I "
 "just wanted to spare you too much regret."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1427
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1431
 msgid ""
 "I have to go now, to rule things and become some kind of queen, but I would "
 "have preferred to be only your bride, gentle blacksmith. What am I saying ? "
@@ -7790,135 +7804,135 @@ msgid ""
 "DragonHeart as they call you !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1428
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1432
 msgid ""
 "Fare thee well, princess mine ! If there has been dragon fire in my heart, "
 "'twas your love put it in !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1432
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1436
 msgid "Well, all's over now. A rather sad ending, by all means."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1433
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1437
 msgid "Garard proposed to marry me. Tiomen, do you think I can accept ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1434
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1438
 msgid "Why not ? Do you love him ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1435
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1439
 msgid "I think so, but I feel so awkward and ridiculous !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1436
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1440
 msgid ""
 "Just keep beeing what you are. Don't always try to improve things with "
 "magics as you're wont to do, and Garard will have a queen surpassing all his "
 "dreams."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1437
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1441
 msgid "Are you serious ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1438
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1442
 msgid "Indeed ! I warrant it !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1439
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1443
 msgid ""
 "So I'll do my best. Don't forget me, Tiomen. It's not only the friend who "
 "asks, but the future queen who orders you to visit Weldyn often !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1440
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1444
 msgid "Then I will... Farewell, your majesty !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1441
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1445
 msgid "Don't joke at me !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1445
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1449
 msgid "And you ? Are you thinking to get married too ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1446
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1450
 msgid "Why this ironic smile ? I'm a woman too, you know !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1447
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1451
 msgid "Yeah, yeah, and a rather seducing one, in my opinion."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1448
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1452
 msgid "Actually, I already found someone."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1449
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1453
 msgid "Great ! Who is he ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1450
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1454
 msgid ""
 "A man both strong and sweet, courageous and genereous, noble in his manners "
 "and his thoughts, a true hero..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1451
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1455
 msgid "Wow ! a perfect man ! Where..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1452
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1456
 msgid ""
 "Near perfect only. He does not yet know I'm in love with him and notices "
 "nothing. I suspect he has some blindness here..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1453
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1457
 msgid "That's regretful. And who is he ? Alfir ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1454
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1458
 msgid "Don't be silly ! He's far too old ! He is about ninety !"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1455
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1459
 msgid "For an elf, that's not so old."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1456
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1460
 msgid "And you ? What shall you do now ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1457
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1461
 msgid "I don't know. I've not thought much about it yet."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1458
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1462
 msgid ""
 "Tiomen, I know your heart belongs to Lestiviel, but one day, when the wound "
 "is less grievous and you are tired of wandering, come meet me in Alnoth. "
 "I'll wait for you."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1459
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1463
 msgid "For me ? But you said you're in love with someone ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1460
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1464
 msgid ""
 "Yeah, with you, stupid asshole ! And I wish one day you will come to "
 "enligthen my life. Is it hopeless ?"
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1461
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1465
 msgid "But... Boney..."
 msgstr ""
 
-#: ReturnToNoelren/story/RTN_Dials-2.cfg:1462
+#: ReturnToNoelren/story/RTN_Dials-2.cfg:1466
 msgid ""
 "No, no, we must do as all lovers do. Kiss me first, and later only we will "
 "start quarrelling."
@@ -7926,6 +7940,10 @@ msgstr ""
 
 #. [attack]: type=blade
 #: ReturnToNoelren/units/Characters/Anuviel.cfg:15
+#: ReturnToNoelren/units/Jani/Fanatic.cfg:33
+#: ReturnToNoelren/units/Jani/Fighter.cfg:30
+#: ReturnToNoelren/units/Jani/Leader.cfg:37
+#: ReturnToNoelren/units/Jani/Shield.cfg:118
 #: ReturnToNoelren/units/Noelren/RTN-Avenger.cfg:56
 #: ReturnToNoelren/units/Noelren/RTN-Champion.cfg:23
 #: ReturnToNoelren/units/Noelren/RTN-Outrider.cfg:43
@@ -7984,8 +8002,8 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: ReturnToNoelren/units/Characters/Boney.cfg:58
-#: ReturnToNoelren/units/Characters/Patti-2.cfg:83
-#: ReturnToNoelren/units/Characters/Patti.cfg:37
+#: ReturnToNoelren/units/Characters/Patti-2.cfg:84
+#: ReturnToNoelren/units/Characters/Patti.cfg:38
 msgid "gaze"
 msgstr ""
 
@@ -8116,8 +8134,13 @@ msgstr ""
 msgid "Telshar Shyde"
 msgstr ""
 
+#. [attack]: type=fire
 #. [attack]: type=impact
 #: ReturnToNoelren/units/Characters/Lestiviel-3.cfg:30
+#: ReturnToNoelren/units/Jani/Celebrant.cfg:36
+#: ReturnToNoelren/units/Jani/Follower.cfg:32
+#: ReturnToNoelren/units/Jani/Monk.cfg:33
+#: ReturnToNoelren/units/Jani/Prior.cfg:31
 #: ReturnToNoelren/units/Noelren/MageA.cfg:13
 #: ReturnToNoelren/units/Noelren/Mayor.cfg:44
 #: ReturnToNoelren/units/Noelren/RedWitch.cfg:62
@@ -8139,30 +8162,30 @@ msgid "Island healer"
 msgstr ""
 
 #. [advancement]: id=dexterity8
-#: ReturnToNoelren/units/Characters/Patti-2.cfg:17
+#: ReturnToNoelren/units/Characters/Patti-2.cfg:18
 msgid "More dexterity with bow"
 msgstr ""
 
 #. [advancement]: id=dexterity9
-#: ReturnToNoelren/units/Characters/Patti-2.cfg:37
+#: ReturnToNoelren/units/Characters/Patti-2.cfg:38
 msgid "Even more dexterity with bow"
 msgstr ""
 
 #. [attack]: type=impact
-#: ReturnToNoelren/units/Characters/Patti-2.cfg:60
+#: ReturnToNoelren/units/Characters/Patti-2.cfg:61
 msgid "Magic wand"
 msgstr ""
 
 #. [attack]: type=pierce
-#: ReturnToNoelren/units/Characters/Patti-2.cfg:70
-#: ReturnToNoelren/units/Characters/Patti.cfg:25
+#: ReturnToNoelren/units/Characters/Patti-2.cfg:71
+#: ReturnToNoelren/units/Characters/Patti.cfg:26
 msgid "Bow"
 msgstr ""
 
 #. [attack]: type=blade
-#: ReturnToNoelren/units/Characters/Patti.cfg:13
+#: ReturnToNoelren/units/Characters/Patti.cfg:14
 #: ReturnToNoelren/units/Characters/SwimmingPatti.cfg:41
-#: ReturnToNoelren/units/Noelren/Swimmers.cfg:34
+#: ReturnToNoelren/units/Noelren/Swimmers.cfg:40
 msgid "Knife"
 msgstr ""
 
@@ -8181,7 +8204,7 @@ msgstr ""
 msgid "Spear"
 msgstr ""
 
-#. [unit_type]: id=SouthSeas Swimmer, race=south-seas_human
+#. [unit_type]: id=J_Swimmer, race=human
 #. [unit_type]: id=Swimming Patti, race=human
 #: ReturnToNoelren/units/Characters/SwimmingPatti.cfg:5
 #: ReturnToNoelren/units/Noelren/Swimmers.cfg:5
@@ -8283,6 +8306,146 @@ msgstr ""
 #. [attack]: type=impact
 #: ReturnToNoelren/units/Characters/Tolivia.cfg:56
 msgid "Water spray"
+msgstr ""
+
+#. [unit_type]: id=J_Celebrant, race=human
+#: ReturnToNoelren/units/Jani/Celebrant.cfg:6
+msgid "Jani Celebrant"
+msgstr ""
+
+#. [unit_type]: id=J_Celebrant, race=human
+#: ReturnToNoelren/units/Jani/Celebrant.cfg:21
+msgid ""
+"Though their faith in Jani has not flagged, their faith in their own ability "
+"to bring the necessary pain to the enemy has (some would say these are the "
+"wisest of all the Janishaders). They have instead turned their attention to "
+"supporting their more confident brothers and have pursued basic healing "
+"knowledge."
+msgstr ""
+
+#. [attack]: type=arcane
+#: ReturnToNoelren/units/Jani/Celebrant.cfg:45
+msgid "condemnation"
+msgstr ""
+
+#. [unit_type]: id=J_Fanatic, race=human
+#: ReturnToNoelren/units/Jani/Fanatic.cfg:6
+msgid "Janishad Fanatic"
+msgstr ""
+
+#. [unit_type]: id=J_Fanatic, race=human
+#: ReturnToNoelren/units/Jani/Fanatic.cfg:22
+msgid ""
+"When blind devotion is combined with combat experience, a more valuable "
+"figher is formed. They know enough to be dangerous, but not enough to be "
+"reasoned with."
+msgstr ""
+
+#. [attack]: type=pierce
+#: ReturnToNoelren/units/Jani/Fanatic.cfg:42
+#: ReturnToNoelren/units/Jani/Fighter.cfg:39
+msgid "darts"
+msgstr ""
+
+#. [unit_type]: id=J_Fighter, race=human
+#: ReturnToNoelren/units/Jani/Fighter.cfg:6
+msgid "Janishad Fighter"
+msgstr ""
+
+#. [unit_type]: id=J_Fighter, race=human
+#: ReturnToNoelren/units/Jani/Fighter.cfg:22
+msgid ""
+"The Janishaders are mostly angry young men. Jani told them what they needed "
+"to hear to pick up a sword and attack their fellow humans in some misguided "
+"attempt to please him. Upon joining the movement, each fighter and follower "
+"is given a tattoo that is supposed to ward off evil spirits."
+msgstr ""
+
+#. [unit_type]: id=J_Follower, race=human
+#: ReturnToNoelren/units/Jani/Follower.cfg:6
+msgid "Jani Follower"
+msgstr ""
+
+#. [unit_type]: id=J_Follower, race=human
+#: ReturnToNoelren/units/Jani/Follower.cfg:22
+msgid ""
+"Some of the angry young men recruited by the Dark Messiah are more clever "
+"than they are strong. These followers have some minimal magical training and "
+"put it to use against their fellow humans in some misguided attempt to "
+"please Jani. Upon joining the movement, each fighter and follower is given a "
+"tattoo that is supposed to ward off evil spirits."
+msgstr ""
+
+#. [attack]: type=cold
+#: ReturnToNoelren/units/Jani/Follower.cfg:41
+#: ReturnToNoelren/units/Jani/Monk.cfg:42
+#: ReturnToNoelren/units/Jani/Prior.cfg:49
+msgid "chill"
+msgstr ""
+
+#. [unit_type]: id=J_Leader, race=human
+#: ReturnToNoelren/units/Jani/Leader.cfg:6
+msgid "Janishad Leader"
+msgstr ""
+
+#. [unit_type]: id=J_Leader, race=human
+#: ReturnToNoelren/units/Jani/Leader.cfg:23
+msgid ""
+"Other fanatics of their sect admire their dedication to the (unfortunate) "
+"faith they all share.  Some of this admiration is due to a unique ability:  "
+"Whether it is a gift granted by Jani or just the ability of a focused mind, "
+"no one can say - but the Leaders can cause a piercing pain in the enemy with "
+"the wave of a hand..."
+msgstr ""
+
+#. [attack]: type=pierce
+#: ReturnToNoelren/units/Jani/Leader.cfg:46
+msgid "soul-pierce"
+msgstr ""
+
+#. [unit_type]: id=J_Monk, race=human
+#: ReturnToNoelren/units/Jani/Monk.cfg:6
+msgid "Janishad Monk"
+msgstr ""
+
+#. [unit_type]: id=J_Monk, race=human
+#: ReturnToNoelren/units/Jani/Monk.cfg:23
+msgid ""
+"The followers continue to study magic and the glyphs carved into stone by "
+"Jani long ago. Most of the glyphs' meaning is obscure, and Jani  don't "
+"appear interested in explaining anything, but this makes the Monks work "
+"harder than ever to be deemed worthy."
+msgstr ""
+
+#. [unit_type]: id=J_Prior, race=human
+#: ReturnToNoelren/units/Jani/Prior.cfg:6
+msgid "Janishad Prior"
+msgstr ""
+
+#. [unit_type]: id=J_Prior, race=human
+#: ReturnToNoelren/units/Jani/Prior.cfg:21
+msgid ""
+"The hardiest and most clever of the glyph readers extract the most "
+"knowledge, and gain great attack power to bring glory to their sect."
+msgstr ""
+
+#. [attack]: type=impact
+#: ReturnToNoelren/units/Jani/Prior.cfg:40
+msgid "staff base"
+msgstr ""
+
+#. [unit_type]: id=J_Shield, race=human
+#: ReturnToNoelren/units/Jani/Shield.cfg:6
+msgid "Janishader Brightshield"
+msgstr ""
+
+#. [unit_type]: id=J_Shield, race=human
+#: ReturnToNoelren/units/Jani/Shield.cfg:108
+msgid ""
+"These fighters play a supporting role, stoically absorbing damage so that "
+"their more hot tempered commrads survive long enough to accomplish their "
+"goals. Their armour disipates heat and cold and energy blasts, so they have "
+"higher than average resistance to fire, cold, and arcane damage."
 msgstr ""
 
 #. [unit_type]: id=Blacksmith, race=human
@@ -8605,11 +8768,6 @@ msgstr ""
 #. [unit_type]: id=SpearmanA
 #: ReturnToNoelren/units/Noelren/SpearmanA.cfg:4
 msgid "Spearman Apprentice"
-msgstr ""
-
-#. [female]
-#: ReturnToNoelren/units/Noelren/Swimmers.cfg:79
-msgid "female^Swimmer"
 msgstr ""
 
 #. [unit_type]: id=LSB_Tentacule, race=monster
@@ -8974,12 +9132,12 @@ msgstr ""
 msgid "Naga Royal, Amailoss."
 msgstr ""
 
-#. [unit_type]: id=Naga Shadow, race=illusion
+#. [unit_type]: id=Naga Shadow, race=naga
 #: ReturnToNoelren/units/nagas/Shadow.cfg:4
 msgid "Naga Shadow"
 msgstr ""
 
-#. [unit_type]: id=Naga Shadow, race=illusion
+#. [unit_type]: id=Naga Shadow, race=naga
 #: ReturnToNoelren/units/nagas/Shadow.cfg:17
 msgid ""
 "Naga Ninjas can leave an other self when they move. That is what Naga "
